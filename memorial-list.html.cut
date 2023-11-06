@@ -1,0 +1,2784 @@
+<div class="memorial-list" id="memorial-result-container">
+                
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/xefo1ak5/עדן-ירושלמי.jpg" class="img-fluid" alt="עדן ירושלמי">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        עדן ירושלמי
+                        <span class="text-sm">24, תל אביב</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מהמסיבה ברעים
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/imbd2umw/יהודית-וייס.jpg" class="img-fluid" alt="יהודית וייס">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        יהודית וייס
+                        <span class="text-sm">65, בארי</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ בארי
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/owxcklr1/נורלין-אגוגו.jpg" class="img-fluid" alt="נורלין אגוג'ו">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        נורלין אגוג'ו
+                        <span class="text-sm">60, הפיליפינים</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ נירים
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/u53alnk0/ביפין-גושי.jpg" class="img-fluid" alt="ביפין ג'ושי">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        ביפין ג'ושי
+                        <span class="text-sm">23, נפאל</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ עלומים
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/xlqpur2m/איציק-אלגרט.jpg" class="img-fluid" alt="איציק אלגרט">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        איציק אלגרט
+                        <span class="text-sm">69, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/d5abpgv1/שלומי-זיו.jpg" class="img-fluid" alt="שלומי זיו">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        שלומי זיו
+                        <span class="text-sm">39, אלקוש</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מהמסיבה ברעים
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/dvblkbuc/נדב-פופלוול.jpg" class="img-fluid" alt="נדב פופלוול">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        נדב פופלוול
+                        <span class="text-sm">51, נירים</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ נירים
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/4kooz5ip/חנה-פרי.jpg" class="img-fluid" alt="חנה פרי">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        חנה פרי
+                        <span class="text-sm">79, נירים</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ נירים
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/is5nyb2h/חיים-פרי.jpg" class="img-fluid" alt="חיים פרי">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        חיים פרי
+                        <span class="text-sm">79, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/fc1grglo/עידן-אלכסנדר.jpg" class="img-fluid" alt="עידן אלכסנדר">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        עידן אלכסנדר
+                        <span class="text-sm">19, ארה"ב</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מהבסיס שבו שירת
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/0tnhov4k/אופיר-צרפתי.jpg" class="img-fluid" alt="אופיר צרפתי">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אופיר צרפתי
+                        <span class="text-sm">27, קרית ביאליק</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מהמסיבה ברעים
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/5rvieykk/עפרה-קידר.jpg" class="img-fluid" alt="עפרה קידר">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        עפרה קידר
+                        <span class="text-sm">70, בארי</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ בארי
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/aauhtew2/אוריון-הרננדס.jpg" class="img-fluid" alt="אוריון הרננדס ראדו">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אוריון הרננדס ראדו
+                        <span class="text-sm">30, מקסיקו</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מהמסיבה ברעים
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/vwhotqkm/אריה-זלמנוביץ.jpg" class="img-fluid" alt="אריה זלמנוביץ">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אריה זלמנוביץ
+                        <span class="text-sm">85, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/5jefyjro/אור-יעקב.jpg" class="img-fluid" alt="אור יעקב">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אור יעקב
+                        <span class="text-sm">16, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/jykb2tpx/יגיל-יעקב.jpg" class="img-fluid" alt="יגיל יעקב">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        יגיל יעקב
+                        <span class="text-sm">12, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/oxbhpruf/גיא-אילוז.jpg" class="img-fluid" alt="גיא אילוז">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        גיא אילוז
+                        <span class="text-sm">26, תל אביב</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מהמסיבה ברעים
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/lg3lt4ah/מרגלית-מוזס.jpg" class="img-fluid" alt="מרגלית מוזס">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        מרגלית מוזס
+                        <span class="text-sm">77, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/0paovuhb/איתי-סבירסקי.jpg" class="img-fluid" alt="איתי סבירסקי">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        איתי סבירסקי
+                        <span class="text-sm">38, תל אביב</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ בארי
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/xugc5p2z/אלמוג-סרוסי.jpg" class="img-fluid" alt="אלמוג סרוסי">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אלמוג סרוסי
+                        <span class="text-sm">25, רעננה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מהמסיבה ברעים
+                    </div>
+                </div>
+            </div>
+        </div>
+
+            
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/24mf1ty4/%D7%A2%D7%99%D7%99%D7%A9%D7%90%D7%94-%D7%90%D7%9C%D7%96%D7%99%D7%90%D7%93%D7%A0%D7%94.jpg" class="img-fluid" alt="עיישאה אלזיאדנה">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        עיישאה אלזיאדנה
+                        <span class="text-sm">17, רהט</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ חולית
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/wqybklzr/%D7%A2%D7%93%D7%9F-%D7%96%D7%9B%D7%A8%D7%99%D7%94.jpg" class="img-fluid" alt="עדן זכריה">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        עדן זכריה
+                        <span class="text-sm">28, קרית שמונה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מהמסיבה ברעים
+                    </div>
+                        <a href="/content/kan/special-sections/p-571459/575191/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/tzuhhtle/%D7%A2%D7%9E%D7%99%D7%A8%D7%9D-%D7%A7%D7%95%D7%A4%D7%A8.jpg" class="img-fluid" alt="עמירם קופר">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        עמירם קופר
+                        <span class="text-sm">84, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/pfjfhkmh/%D7%A0%D7%95%D7%A2%D7%9D-%D7%90%D7%91%D7%99%D7%92%D7%93%D7%95%D7%A8%D7%99.jpg" class="img-fluid" alt="נועם אביגדורי">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        נועם אביגדורי
+                        <span class="text-sm">12, הוד השרון</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ בארי
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/ro5k3r50/%D7%99%D7%90%D7%99%D7%A8-%D7%94%D7%95%D7%A8%D7%9F.jpg" class="img-fluid" alt="יאיר הורן">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        יאיר הורן
+                        <span class="text-sm">45, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/3iphiwvj/%D7%90%D7%99%D7%AA%D7%9F-%D7%94%D7%95%D7%A8%D7%9F.jpg" class="img-fluid" alt="איתן הורן">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        איתן הורן
+                        <span class="text-sm">37, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/vctlnodp/398063883_10161431415177088_3568294037318690713_n.jpg" class="img-fluid" alt="ליאור רודאיף">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        ליאור רודאיף
+                        <span class="text-sm">61, ניר יצחק</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר יצחק
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/pjqpsmul/%D7%A9%D7%A8%D7%95%D7%9F-%D7%90%D7%91%D7%99%D7%92%D7%93%D7%95%D7%A8%D7%99.jpg" class="img-fluid" alt="שרון אביגדורי">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        שרון אביגדורי
+                        <span class="text-sm">52, הוד השרון</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ בארי
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/z1jna5gf/%D7%96%D7%99%D7%95-%D7%91%D7%A8%D7%9E%D7%9F.jpg" class="img-fluid" alt="זיו ברמן">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        זיו ברמן
+                        <span class="text-sm">26, כפר עזה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ כפר עזה
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/l2jnxztx/%D7%92%D7%9C%D7%99-%D7%91%D7%A8%D7%9E%D7%9F.jpg" class="img-fluid" alt="גלי ברמן">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        גלי ברמן
+                        <span class="text-sm">26, כפר עזה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ כפר עזה
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/bceftxuw/%D7%90%D7%99%D7%A8%D7%A0%D7%94-%D7%98%D7%98%D7%99.jpg" class="img-fluid" alt="אירנה טטי">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אירנה טטי
+                        <span class="text-sm">73, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/mlfb5wvx/%D7%A1%D7%A4%D7%99%D7%A8-%D7%9B%D7%94%D7%9F.jpg" class="img-fluid" alt="ספיר כהן">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        ספיר כהן
+                        <span class="text-sm">29, קרית אתא</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/sxdpahk0/%D7%A1%D7%A9%D7%94-%D7%98%D7%A8%D7%95%D7%A4%D7%A0%D7%95%D7%91.jpg" class="img-fluid" alt="סשה אלכסנדר טרופנוב">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        סשה אלכסנדר טרופנוב
+                        <span class="text-sm">28, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/gcjpv1dv/%D7%A2%D7%9E%D7%99%D7%AA-%D7%A9%D7%A0%D7%99.jpg" class="img-fluid" alt="עמית שני">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        עמית שני
+                        <span class="text-sm">16, בארי</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ בארי
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/3etpew2g/%D7%99%D7%95%D7%A1%D7%A3-%D7%97%D7%99%D7%99%D7%9D-%D7%90%D7%95%D7%97%D7%A0%D7%94.jpg" class="img-fluid" alt="יוסף חיים אוחנה">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        יוסף חיים אוחנה
+                        <span class="text-sm">23, קרית מלאכי</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מהמסיבה ברעים
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/4sop24pr/%D7%99%D7%95%D7%AA%D7%9D-%D7%97%D7%99%D7%99%D7%9D.jpg" class="img-fluid" alt="יותם חיים">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        יותם חיים
+                        <span class="text-sm">28, כפר עזה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ כפר עזה
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/dihhcxth/%D7%98%D7%9C-%D7%97%D7%99%D7%99%D7%9E%D7%99.jpg" class="img-fluid" alt="טל חיימי">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        טל חיימי
+                        <span class="text-sm">42, ניר יצחק</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר יצחק
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/thincxoa/%D7%99%D7%A8%D7%93%D7%9F-%D7%91%D7%99%D7%91%D7%A1.jpg" class="img-fluid" alt="ירדן ביבס">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        ירדן ביבס
+                        <span class="text-sm">34, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/2xnhrkwb/%D7%97%D7%A0%D7%94-%D7%A7%D7%A6%D7%99%D7%A8.jpg" class="img-fluid" alt="חנה קציר">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        חנה קציר
+                        <span class="text-sm">77, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/lvujl0no/%D7%A9%D7%92%D7%91-%D7%9B%D7%9C%D7%A4%D7%95%D7%9F.jpg" class="img-fluid" alt="שגב כלפון">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        שגב כלפון
+                        <span class="text-sm">26, דימונה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מהמסיבה ברעים
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/gh0pnm43/%D7%AA%D7%9E%D7%99%D7%A8-%D7%90%D7%93%D7%A8.jpg" class="img-fluid" alt="תמיר אדר">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        תמיר אדר
+                        <span class="text-sm">38, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/l5pjgixc/%D7%AA%D7%9E%D7%99%D7%A8-%D7%A0%D7%9E%D7%A8%D7%95%D7%93%D7%99.png" class="img-fluid" alt="תמיר נמרודי">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        תמיר נמרודי
+                        <span class="text-sm">18, נירית</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מהבסיס שבו שירת
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/q3cgmehm/%D7%A0%D7%99%D7%9C%D7%99-%D7%9E%D7%A8%D7%92%D7%9C%D7%99%D7%AA.jpg" class="img-fluid" alt="נילי מרגלית">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        נילי מרגלית
+                        <span class="text-sm">41, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/p4ipbvq2/%D7%A8%D7%95%D7%A0%D7%99-%D7%90%D7%A9%D7%9C.jpg" class="img-fluid" alt="רוני אשל">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        רוני אשל
+                        <span class="text-sm">19, צור יצחק</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מהבסיס שבו שירתה
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/1xwj2lci/%D7%99%D7%92%D7%91-%D7%91%D7%95%D7%9B%D7%A9%D7%98%D7%91.jpg" class="img-fluid" alt="יגב בוכשטב">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        יגב בוכשטב
+                        <span class="text-sm">34, נירים</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ נירים
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/g5jjup1p/%D7%A8%D7%99%D7%9E%D7%95%D7%9F-%D7%A7%D7%99%D7%A8%D7%A9%D7%98.jpg" class="img-fluid" alt="רימון קירשט">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        רימון קירשט
+                        <span class="text-sm">36, נירים</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ נירים
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/kan-actual/p-11894/news-item/590370/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/n51jz3un/%D7%99%D7%9C%D7%A0%D7%94-%D7%98%D7%A8%D7%95%D7%A4%D7%A0%D7%95%D7%91.jpg" class="img-fluid" alt="ילנה טרופנוב">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        ילנה טרופנוב
+                        <span class="text-sm">50, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                        <a href="/content/kan-news/defense/588988/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/rjgajtbw/%D7%A8%D7%91%D7%99%D7%93-%D7%9B%D7%A5.jpg" class="img-fluid" alt="רביד כץ">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        רביד כץ
+                        <span class="text-sm">51, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                        <a href="/content/kan/special-sections/p-571459/580167/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/us2oiep1/%D7%93%D7%95%D7%A8%D7%95%D7%9F-%D7%A9%D7%98%D7%99%D7%99%D7%A0%D7%91%D7%A8%D7%9B%D7%A8.jpg" class="img-fluid" alt="דורון שטיינברכר">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        דורון שטיינברכר
+                        <span class="text-sm">30, כפר עזה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ כפר עזה
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/550buqht/%D7%A9%D7%9C%D7%9E%D7%94-%D7%9E%D7%A0%D7%A1%D7%95%D7%A8.jpg" class="img-fluid" alt="שלמה מנסור">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        שלמה מנסור
+                        <span class="text-sm">85, כיסופים</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ כיסופים
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/u5bdgebv/%D7%9E%D7%99%D7%94.jpg" class="img-fluid" alt="מיה גורן">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        מיה גורן
+                        <span class="text-sm">56 ,ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/uolppudl/%D7%97%D7%9E%D7%96%D7%94-%D7%96%D7%99%D7%99%D7%93%D7%A0%D7%94.jpg" class="img-fluid" alt="חמזה זיאדנה">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        חמזה זיאדנה
+                        <span class="text-sm">22, רהט</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ חולית
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/btxjdueu/%D7%A4%D7%A8%D7%97%D7%90%D7%9F-%D7%90%D7%9C%D7%A7%D7%90%D7%93%D7%99.jpg" class="img-fluid" alt="פרחאן אלקאדי">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        פרחאן אלקאדי
+                        <span class="text-sm">53, דרומית לרהט</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ מגן
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/t5rbdhd4/%D7%91%D7%9C%D7%90%D7%9C-%D7%96%D7%99%D7%99%D7%93%D7%A0%D7%94.jpg" class="img-fluid" alt="בלאל זיאדנה">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        בלאל זיאדנה
+                        <span class="text-sm">19, רהט</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ חולית
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/2ylncrow/%D7%A1%D7%90%D7%9E%D7%A8-%D7%A4%D7%95%D7%90%D7%93-%D7%90%D7%9C-%D7%98%D7%9C%D7%90%D7%9C%D7%A7%D7%94.jpg" class="img-fluid" alt="סאמר פואד אל-טלאלקה">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        סאמר פואד אל-טלאלקה
+                        <span class="text-sm">24, חורה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/1rseqjdk/%D7%A7%D7%9C%D7%9E%D7%A0%D7%A1-%D7%9E%D7%98%D7%A0%D7%92%D7%94.jpg" class="img-fluid" alt="קלמנס מטנגה">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        קלמנס מטנגה
+                        <span class="text-sm">22, אזרח טנזניה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ נחל עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/2ldfddes/%D7%92%D7%95%D7%A9%D7%95%D7%A2-%D7%9C%D7%95%D7%90%D7%99%D7%98%D7%95.jpg" class="img-fluid" alt="ג'ושוע לואיטו מולל">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        ג'ושוע לואיטו מולל
+                        <span class="text-sm">21, אזרח טנזניה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ נחל עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/g1gaujvo/%D7%99%D7%A8%D7%93%D7%9F-%D7%A8%D7%95%D7%9E%D7%9F.jpg" class="img-fluid" alt="ירדן רומן">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        ירדן רומן
+                        <span class="text-sm">36, בארי</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ בארי
+                    </div>
+                        <a href="/content/kan/special-sections/p-571459/573761/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/zrvfaqdk/%D7%93%D7%95%D7%9C%D7%91-%D7%99%D7%94%D7%95%D7%93.jpg" class="img-fluid" alt="דולב יהוד">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        דולב יהוד
+                        <span class="text-sm">35, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/bgjgwboe/%D7%90%D7%A8%D7%91%D7%9C-%D7%99%D7%94%D7%95%D7%93.jpg" class="img-fluid" alt="ארבל יהוד">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        ארבל יהוד
+                        <span class="text-sm">28, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/xrzchkek/%D7%98%D7%9C-%D7%92%D7%95%D7%9C%D7%93%D7%A9%D7%98%D7%99%D7%99%D7%9F.jpg" class="img-fluid" alt="טל גולדשטיין">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        טל גולדשטיין
+                        <span class="text-sm">9, כפר עזה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ כפר עזה
+                    </div>
+                        <a href="/content/kan/kan-actual/p-11894/news-item/568697/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/dbbfhz4l/%D7%92%D7%9C-%D7%92%D7%95%D7%9C%D7%93%D7%A9%D7%98%D7%99%D7%99%D7%9F.jpg" class="img-fluid" alt="גל גולדשטיין">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        גל גולדשטיין
+                        <span class="text-sm">11, כפר עזה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ כפר עזה
+                    </div>
+                        <a href="/content/kan/kan-actual/p-11894/news-item/568697/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/5mllhmx2/%D7%90%D7%92%D7%9D-%D7%92%D7%95%D7%9C%D7%93%D7%A9%D7%98%D7%99%D7%99%D7%9F.jpg" class="img-fluid" alt="אגם גולדשטיין">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אגם גולדשטיין
+                        <span class="text-sm">17, כפר עזה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ כפר עזה
+                    </div>
+                        <a href="/content/kan/kan-actual/p-11894/news-item/568697/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/301fo51f/%D7%97%D7%9F-%D7%90%D7%9C%D7%9E%D7%95%D7%92-%D7%92%D7%95%D7%9C%D7%93%D7%A9%D7%98%D7%99%D7%99%D7%9F.jpg" class="img-fluid" alt="חן אלמוג גולדשטיין">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        חן אלמוג גולדשטיין
+                        <span class="text-sm">48, כפר עזה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ כפר עזה
+                    </div>
+                        <a href="/content/kan/kan-actual/p-11894/news-item/568697/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/4iupxan1/%D7%90%D7%9C%D7%95%D7%9F-%D7%9C%D7%95%D7%9C%D7%95-%D7%A9%D7%9E%D7%A8%D7%99%D7%96.jpg" class="img-fluid" alt="אלון לולו שמריז">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אלון לולו שמריז
+                        <span class="text-sm">26, כפר עזה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ כפר עזה
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/44jkbzmb/%D7%A8%D7%95%D7%9E%D7%99-%D7%9C%D7%A9%D7%9D-%D7%92%D7%95%D7%A0%D7%9F.jpg" class="img-fluid" alt="רומי גונן">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        רומי גונן
+                        <span class="text-sm">23, כפר ורדים</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מהמסיבה ברעים
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan-news/opinions/589039/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/hnqicez5/%D7%90%D7%9C%D7%9B%D7%A1-%D7%93%D7%A0%D7%A6%D7%99%D7%92.jpg" class="img-fluid" alt="אלכס דנציג">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אלכס דנציג
+                        <span class="text-sm">75, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/podcasts/p-569737/583124/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/uqhfabl4/%D7%99%D7%95%D7%91%D7%9C-%D7%90%D7%A0%D7%92%D7%9C.jpg" class="img-fluid" alt="יובל אנגל">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        יובל אנגל
+                        <span class="text-sm">11, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573742/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/pbkpcxs5/%D7%9E%D7%99%D7%A7%D7%94-%D7%90%D7%A0%D7%92%D7%9C.jpg" class="img-fluid" alt="מיקה אנגל">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        מיקה אנגל
+                        <span class="text-sm">18, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573742/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/io2ote30/%D7%A8%D7%95%D7%A0%D7%9F-%D7%90%D7%A0%D7%92%D7%9C.jpg" class="img-fluid" alt="רונן אנגל">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        רונן אנגל
+                        <span class="text-sm">55, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                        <a href="/content/kan/special-sections/p-571459/573742/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/bwzjzahj/%D7%A7%D7%A8%D7%99%D7%A0%D7%94-%D7%90%D7%A0%D7%92%D7%9C.jpg" class="img-fluid" alt="קרינה אנגל-ברט">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        קרינה אנגל-ברט
+                        <span class="text-sm">51, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573742/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/1atcuddn/yahel1.jpg" class="img-fluid" alt="יהל שוהם">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        יהל שוהם
+                        <span class="text-sm">3, מעלה צביה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ בארי
+                    </div>
+                        <a href="/content/kan/kan-actual/p-11894/news-item/581493/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/k0ep5kxj/nave.jpg" class="img-fluid" alt="נווה שוהם">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        נווה שוהם
+                        <span class="text-sm">8, מעלה צביה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ בארי
+                    </div>
+                        <a href="/content/kan/kan-actual/p-11894/news-item/581493/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/n3wdekrn/tal.jpg" class="img-fluid" alt="טל שוהם">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        טל שוהם
+                        <span class="text-sm">38, מעלה צביה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ בארי
+                    </div>
+                        <a href="/content/kan/kan-actual/p-11894/news-item/581493/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/kfehmkny/%D7%A2%D7%93%D7%99-%D7%A9%D7%95%D7%94%D7%9D-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.png" class="img-fluid" alt="עדי שוהם">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        עדי שוהם
+                        <span class="text-sm">38, מעלה צביה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ בארי
+                    </div>
+                        <a href="/content/kan/kan-actual/p-11894/news-item/581493/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/jzpfozkl/amit.jpg" class="img-fluid" alt="עמית בוסקילה">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        עמית בוסקילה
+                        <span class="text-sm">28, אשדוד</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מהמסיבה ברעים
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/ae2b5svh/%D7%9C%D7%95%D7%90%D7%99%D7%A1-%D7%A0%D7%95%D7%A8%D7%91%D7%A8%D7%98%D7%95-%D7%94%D7%A8.png" class="img-fluid" alt="לואיס נורברטו הר">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        לואיס נורברטו הר
+                        <span class="text-sm">70, אורים</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר יצחק
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573749/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/23jbzvlj/nik.jpg" class="img-fluid" alt="ניק בייזר">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        ניק בייזר
+                        <span class="text-sm">19, באר שבע</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מהסיס שבו שירת
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/kan-11/p-12043/s7/590317/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/hozf3yhf/%D7%90%D7%9C%D7%A7%D7%A0%D7%94-%D7%91%D7%95%D7%97%D7%91%D7%95%D7%98-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="אלקנה בוחבוט">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אלקנה בוחבוט
+                        <span class="text-sm">34, מבשרת ציון</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מהמסיבה ברעים
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/ktpjpk0d/%D7%90%D7%9C%D7%99-%D7%A9%D7%A8%D7%A2%D7%91%D7%99-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="אלי שרעבי">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אלי שרעבי
+                        <span class="text-sm">51, בארי</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ בארי
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/4kkdceul/%D7%94%D7%99%D7%A8%D7%A9-%D7%92%D7%95%D7%9C%D7%93%D7%91%D7%A8%D7%92-%D7%A4%D7%95%D7%9C%D7%99%D7%9F-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="הירש גולדברג פולין">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        הירש גולדברג פולין
+                        <span class="text-sm">23, ירושלים</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מהמסיבה ברעים
+                    </div>
+                        <a href="https://twitter.com/kann_news/status/1719379683312017454" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/tpqhy4kk/%D7%93%D7%A0%D7%99%D7%90%D7%9C%D7%94-%D7%92%D7%9C%D7%91%D7%95%D7%A2.jpg" class="img-fluid" alt="דניאלה גלבוע">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        דניאלה גלבוע
+                        <span class="text-sm">19, פתח תקווה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מהבסיס שבו שירתה
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/ql3hysd3/%D7%A8%D7%95%D7%A0%D7%99-%D7%A7%D7%A8%D7%99%D7%91%D7%95%D7%99-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.png" class="img-fluid" alt="רוני קריבוי">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        רוני קריבוי
+                        <span class="text-sm">25, כרמיאל</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מהמסיבה ברעים
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/gccj0w2y/%D7%A0%D7%95%D7%A2%D7%94-%D7%9E%D7%A8%D7%A6%D7%99%D7%90%D7%A0%D7%95-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="נועה מרציאנו">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        נועה מרציאנו
+                        <span class="text-sm">19, מודיעין</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מהבסיס שבו שירתה
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/5s0fhvml/eyal-nouri.jpg" class="img-fluid" alt="עדינה משה">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        עדינה משה
+                        <span class="text-sm">72, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573763/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/klbbedaj/%D7%92%D7%99%D7%90-%D7%92%D7%9C%D7%91%D7%95%D7%A2-%D7%93%D7%9C%D7%90%D7%9C.jpg" class="img-fluid" alt="גיא גלבוע דלאל">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        גיא גלבוע דלאל
+                        <span class="text-sm">22, כפר סבא</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מהמסיבה ברעים
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/wnjjb4hr/%D7%A6%D7%97%D7%99-%D7%A2%D7%99%D7%93%D7%9F-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="צחי עידן">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        צחי עידן
+                        <span class="text-sm">49, נחל עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ נחל עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/mdofvb3g/%D7%90%D7%99%D7%9C%D7%A0%D7%94-%D7%92%D7%A8%D7%99%D7%A6%D7%91%D7%A1%D7%A7%D7%99-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.png" class="img-fluid" alt="אילנה גריצבסקי">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אילנה גריצבסקי
+                        <span class="text-sm">30, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/23fdh13r/%D7%A2%D7%95%D7%93%D7%93-%D7%9C%D7%99%D7%A4%D7%A9%D7%99%D7%A5-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.png" class="img-fluid" alt="עודד ליפשיץ">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        עודד ליפשיץ
+                        <span class="text-sm">83, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                        <a href="/content/kan-news/local/580269/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/435hgk32/%D7%A8%D7%96-%D7%91%D7%9F-%D7%A2%D7%9E%D7%99.jpg" class="img-fluid" alt="רז בן עמי">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        רז בן עמי
+                        <span class="text-sm">57, בארי</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ בארי
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/mq3ntych/%D7%9E%D7%95%D7%A8%D7%9F-%D7%99%D7%A0%D7%90%D7%99.jpg" class="img-fluid" alt="מורן ינאי">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        מורן ינאי
+                        <span class="text-sm">40, באר שבע</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מהמסיבה ברעים
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/saufx1dc/%D7%9B%D7%A8%D7%9E%D7%9C-%D7%92%D7%AA-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="כרמל גת">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        כרמל גת
+                        <span class="text-sm">39, בארי</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ בארי
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/swpiw402/%D7%A9%D7%95%D7%A9%D7%9F-%D7%94%D7%A8%D7%9F-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.png" class="img-fluid" alt="שושן הרן">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        שושן הרן
+                        <span class="text-sm">67, בארי</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ בארי
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan-news/local/574933/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/5i3piivv/gadi.jpg" class="img-fluid" alt="גדי משה מוזס">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        גדי משה מוזס
+                        <span class="text-sm">79, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                        <a href="/content/kan/special-sections/p-571459/580167/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/brfd5m1l/%D7%A1%D7%94%D7%A8-%D7%A7%D7%9C%D7%93%D7%A8%D7%95%D7%9F.jpg" class="img-fluid" alt="סהר קלדרון">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        סהר קלדרון
+                        <span class="text-sm">16, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan-news/local/585082/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/ex2bmz0l/%D7%90%D7%A8%D7%96-%D7%A7%D7%9C%D7%93%D7%A8%D7%95%D7%9F-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="ארז קלדרון">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        ארז קלדרון
+                        <span class="text-sm">12, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan-news/local/583488/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/o4fhoryx/%D7%A2%D7%95%D7%A4%D7%A8-%D7%A7%D7%9C%D7%93%D7%A8%D7%95%D7%9F-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="עופר קלדרון">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        עופר קלדרון
+                        <span class="text-sm">50, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan-news/local/585082/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/d0vfsncw/%D7%A0%D7%A2%D7%9E%D7%94-%D7%9C%D7%95%D7%99-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="נעמה לוי">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        נעמה לוי
+                        <span class="text-sm">19, רעננה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מהבסיס שבו שירתה
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/jhjai4vn/%D7%AA%D7%9E%D7%A8-%D7%9E%D7%A6%D7%92%D7%A8.png" class="img-fluid" alt="תמר מצגר">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        תמר מצגר
+                        <span class="text-sm">78, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/podcasts/p-579653/191023/587974/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/n3rg2fgi/%D7%99%D7%95%D7%A8%D7%9D-%D7%9E%D7%A6%D7%92%D7%A8.png" class="img-fluid" alt="יורם מצגר">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        יורם מצגר
+                        <span class="text-sm">80, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/podcasts/p-579653/191023/587974/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/50bnkspr/%D7%90%D7%9C%D7%9E%D7%95%D7%92-%D7%9E%D7%90%D7%99%D7%A8-%D7%92%D7%90%D7%9F-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.png" class="img-fluid" alt="אלמוג מאיר ג'אן">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אלמוג מאיר ג'אן
+                        <span class="text-sm">21, אור יהודה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מהמסיבה ברעים
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/pzmjy5jv/%D7%90%D7%9C%D7%95%D7%9F-%D7%90%D7%94%D7%9C-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.png" class="img-fluid" alt="אלון אהל">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אלון אהל
+                        <span class="text-sm">22, לבון</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מהמסיבה ברעים
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/sa1h5hgt/%D7%A2%D7%95%D7%9E%D7%A8-%D7%A9%D7%9D-%D7%98%D7%95%D7%91.png" class="img-fluid" alt="עומר שם טוב">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        עומר שם טוב
+                        <span class="text-sm">21, הרצליה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מהמסיבה ברעים
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573754/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/d0wbzmfm/%D7%A2%D7%95%D7%AA%D7%A7-%D7%A9%D7%9C-lishay_lavi.jpg" class="img-fluid" alt="עמרי מירן">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        עמרי מירן
+                        <span class="text-sm">46, נחל עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ נחל עוז
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573758/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/h4oipf4t/%D7%90%D7%9E%D7%94-%D7%A7%D7%95%D7%A0%D7%99%D7%95-%D7%99%D7%95%D7%9C%D7%99-%D7%A7%D7%95%D7%A0%D7%99%D7%95-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="יולי קוניו">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        יולי קוניו
+                        <span class="text-sm">3, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573760/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/h4oipf4t/%D7%90%D7%9E%D7%94-%D7%A7%D7%95%D7%A0%D7%99%D7%95-%D7%99%D7%95%D7%9C%D7%99-%D7%A7%D7%95%D7%A0%D7%99%D7%95-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="אמה קוניו">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אמה קוניו
+                        <span class="text-sm">3, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573760/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/3wbdqmdm/%D7%93%D7%95%D7%93-%D7%A7%D7%95%D7%A0%D7%99%D7%95.jpg" class="img-fluid" alt="דוד קוניו">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        דוד קוניו
+                        <span class="text-sm">33, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573760/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/a0xp5mvp/%D7%A9%D7%A8%D7%95%D7%9F-%D7%90%D7%9C%D7%95%D7%A0%D7%99-%D7%A7%D7%95%D7%A0%D7%99%D7%95.jpg" class="img-fluid" alt="שרון אלוני קוניו">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        שרון אלוני קוניו
+                        <span class="text-sm">34, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573760/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/u3flmqmg/%D7%A7%D7%A8%D7%99%D7%A0%D7%94-%D7%90%D7%A8%D7%99%D7%99%D7%91.jpg" class="img-fluid" alt="קרינה ארייב">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        קרינה ארייב
+                        <span class="text-sm">19, ירושלים</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מהבסיס שבו שירתה
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/575129/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/3s0l5sdc/%D7%90%D7%99%D7%AA%D7%99-%D7%A8%D7%92%D7%91.jpg" class="img-fluid" alt="איתי רגב">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        איתי רגב
+                        <span class="text-sm">18, הרצליה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מהמסיבה ברעים
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/5hcpvoxb/%D7%9E%D7%99%D7%94-%D7%A8%D7%92%D7%91.jpg" class="img-fluid" alt="מיה רגב">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        מיה רגב
+                        <span class="text-sm">21, הרצליה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מהמסיבה ברעים
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/5c3fotvc/%D7%90%D7%91%D7%99%D7%AA%D7%A8-%D7%93%D7%95%D7%93-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="אביתר דוד">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אביתר דוד
+                        <span class="text-sm">23, כפר סבא</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מהמסיבה ברעים
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573745/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/w03j4aa4/%D7%90%D7%9C%D7%94-%D7%90%D7%9C%D7%99%D7%A7%D7%99%D7%9D-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="אלה אליקים">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אלה אליקים
+                        <span class="text-sm">8, נחל עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ נחל עוז
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573748/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/fstng4tp/%D7%93%D7%A4%D7%A0%D7%94-%D7%90%D7%9C%D7%99%D7%A7%D7%99%D7%9D-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.png" class="img-fluid" alt="דפנה אליקים">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        דפנה אליקים
+                        <span class="text-sm">15, נחל עוז</span>
+                    </div>
+                    <div class="card-text">
+                        אלה אליקים
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573748/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/o3wnpk1b/%D7%93%D7%99%D7%A6%D7%94-%D7%94%D7%99%D7%9E%D7%9F.jpg" class="img-fluid" alt="דיצה הימן">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        דיצה הימן
+                        <span class="text-sm">84, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/575122/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/4hlc1fuq/%D7%90%D7%9E%D7%99%D7%9C%D7%99%D7%94-%D7%90%D7%9C%D7%95%D7%A0%D7%99.jpg" class="img-fluid" alt="אמיליה אלוני">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אמיליה אלוני
+                        <span class="text-sm">6, יבנה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573760/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/0dkhrv4r/%D7%93%D7%A0%D7%99%D7%90%D7%9C-%D7%90%D7%9C%D7%95%D7%A0%D7%99-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="דניאל אלוני">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        דניאל אלוני
+                        <span class="text-sm">45, יבנה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573760/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/55ldgatc/%D7%90%D7%95%D7%A4%D7%99%D7%A8-%D7%90%D7%A0%D7%92%D7%9C-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="אופיר אנג'ל">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אופיר אנג'ל
+                        <span class="text-sm">17, רמת רחל</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ בארי
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/wy3jdkqy/%D7%A8%D7%95%D7%9F-%D7%A9%D7%A8%D7%9E%D7%9F-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="רון שרמן">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        רון שרמן
+                        <span class="text-sm">19, להבים</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מהבסיס שבו שירת
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/sv0nv5aa/%D7%90%D7%95%D7%94%D7%93-%D7%9E%D7%95%D7%A0%D7%93%D7%A8.jpg" class="img-fluid" alt="אוהד מונדר זכרי">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אוהד מונדר זכרי
+                        <span class="text-sm">9, כפר סבא</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                        <a href="/content/kan/kan-actual/p-11894/news-item/580186/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/qksjzge3/%D7%A7%D7%A8%D7%9F-%D7%9E%D7%95%D7%A0%D7%93%D7%A8-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="קרן מונדר">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        קרן מונדר
+                        <span class="text-sm">54, כפר סבא</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                        <a href="/content/kan/kan-actual/p-11894/news-item/580186/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/el0bcjtb/%D7%A8%D7%95%D7%AA%D7%99-%D7%9E%D7%95%D7%A0%D7%93%D7%A8-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="רותי מונדר">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        רותי מונדר
+                        <span class="text-sm">78, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                        <a href="/content/kan/kan-actual/p-11894/news-item/580186/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/epwbr2yu/%D7%90%D7%91%D7%A8%D7%94%D7%9D-%D7%9E%D7%95%D7%A0%D7%93%D7%A8-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.png" class="img-fluid" alt="אברהם מונדר">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אברהם מונדר
+                        <span class="text-sm">78, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                        <a href="/content/kan/kan-actual/p-11894/news-item/580186/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/hbxmopoz/%D7%90%D7%99%D7%AA%D7%9F-%D7%99%D7%94%D7%9C%D7%95%D7%9E%D7%99-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="איתן יהלומי">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        איתן יהלומי
+                        <span class="text-sm">12, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/hdgpf5b1/%D7%90%D7%95%D7%94%D7%93-%D7%99%D7%94%D7%9C%D7%95%D7%9E%D7%99-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.png" class="img-fluid" alt="אוהד יהלומי">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אוהד יהלומי
+                        <span class="text-sm">49, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/o03lbwnv/%D7%90%D7%95%D7%94%D7%93-%D7%91%D7%9F-%D7%A2%D7%9E%D7%99-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.png" class="img-fluid" alt="אוהד בן עמי">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אוהד בן עמי
+                        <span class="text-sm">55, בארי</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ בארי
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/stcnj1h5/%D7%90%D7%92%D7%9D-%D7%91%D7%A8%D7%91%D7%A8-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="אגם ברגר">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אגם ברגר
+                        <span class="text-sm">20, חולון</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מהבסיס שבו שירתה
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/ljgpdu3f/%D7%A7%D7%99%D7%AA-%D7%A9%D7%9E%D7%95%D7%90%D7%9C-%D7%A1%D7%92%D7%9C-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.png" class="img-fluid" alt="קית' שמואל סגל">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        קית' שמואל סגל
+                        <span class="text-sm">64, כפר עזה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ כפר עזה
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/fvnaggn2/%D7%90%D7%91%D7%99%D7%91%D7%94-%D7%A1%D7%92%D7%9C-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.png" class="img-fluid" alt="אדריאן אביבה סגל">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אדריאן אביבה סגל
+                        <span class="text-sm">62, כפר עזה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ כפר עזה
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/zhmg3x4f/%D7%A2%D7%A4%D7%A8%D7%99-%D7%91%D7%A8%D7%95%D7%93%D7%A5-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="עפרי ברודץ">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        עפרי ברודץ
+                        <span class="text-sm">10, כפר עזה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ כפר עזה
+                    </div>
+                        <a href="/content/kan-news/defense/567783/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/z32btey2/%D7%90%D7%95%D7%A8%D7%99%D7%94-%D7%91%D7%A8%D7%95%D7%93%D7%A5-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.png" class="img-fluid" alt="אוריה ברודץ">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אוריה ברודץ
+                        <span class="text-sm">4, כפר עזה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ כפר עזה
+                    </div>
+                        <a href="/content/kan-news/defense/567783/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/qfwdszd5/%D7%99%D7%95%D7%91%D7%9C-%D7%91%D7%A8%D7%95%D7%93%D7%A5-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.png" class="img-fluid" alt="יובל ברודץ">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        יובל ברודץ
+                        <span class="text-sm">8, כפר עזה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ כפר עזה
+                    </div>
+                        <a href="/content/kan-news/defense/567783/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/enzfkvur/%D7%94%D7%92%D7%A8-%D7%91%D7%A8%D7%95%D7%93%D7%A5.jpg" class="img-fluid" alt="הגר ברודץ">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        הגר ברודץ
+                        <span class="text-sm">39, כפר עזה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ כפר עזה
+                    </div>
+                        <a href="/content/kan-news/defense/567783/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/lrzexerv/yair.jpg" class="img-fluid" alt="יאיר יעקב">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        יאיר יעקב
+                        <span class="text-sm">59, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/44ifrr3o/%D7%9E%D7%99%D7%A8%D7%91-%D7%98%D7%9C-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="מירב טל">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        מירב טל
+                        <span class="text-sm">53, ראשון לציון</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/1elhpajx/%D7%90%D7%95%D7%A8-%D7%9C%D7%95%D7%99-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="אור לוי">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אור לוי
+                        <span class="text-sm">33, גבעתיים</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מהמסיבה ברעים
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/cxcli1sl/sigicohen.jpg" class="img-fluid" alt="אליה כהן">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אליה כהן
+                        <span class="text-sm">26, צור הדסה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מהמסיבה ברעים
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573755/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/k3lieyfd/%D7%90%D7%91%D7%99%D7%A0%D7%AA%D7%9F-%D7%90%D7%95%D7%A8.jpg" class="img-fluid" alt="אבינתן אור">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אבינתן אור
+                        <span class="text-sm">30, תל אביב</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מהמסיבה ברעים
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/rs0bky4a/%D7%A0%D7%95%D7%A2%D7%94-%D7%90%D7%A8%D7%92%D7%9E%D7%A0%D7%99.jpg" class="img-fluid" alt="נועה ארגמני">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        נועה ארגמני
+                        <span class="text-sm">26, באר שבע</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מהמסיבה ברעים
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573751/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/jjupebsa/%D7%99%D7%95%D7%A1%D7%99-%D7%A9%D7%A8%D7%A2%D7%91%D7%99-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="יוסי שרעבי">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        יוסי שרעבי
+                        <span class="text-sm">53, בארי</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ בארי
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/exzjde0a/%D7%9B%D7%A4%D7%99%D7%A8-%D7%91%D7%99%D7%91%D7%A1-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="כפיר ביבס">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        כפיר ביבס
+                        <span class="text-sm">9 חודשים, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                        <a href="/content/kan/kan-actual/p-11894/news-item/572854/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/minpipqz/%D7%90%D7%A8%D7%99%D7%90%D7%9C-%D7%91%D7%99%D7%91%D7%A1-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="אריאל ביבס">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אריאל ביבס
+                        <span class="text-sm">4, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                        <a href="/content/kan/kan-actual/p-11894/news-item/572854/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/isunzplk/%D7%A9%D7%99%D7%A8%D7%99-%D7%91%D7%99%D7%91%D7%A1-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="שירי ביבס">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        שירי ביבס
+                        <span class="text-sm">32, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                        <a href="/content/kan/kan-actual/p-11894/news-item/572854/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/ytchfvi1/%D7%90%D7%9C%D7%9E%D7%94-%D7%90%D7%91%D7%A8%D7%94%D7%9D-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="אלמה אברהם">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אלמה אברהם
+                        <span class="text-sm">84, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/teifnkfv/%D7%9C%D7%99%D7%A8%D7%99-%D7%90%D7%9C%D7%91%D7%92-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="לירי אלבג">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        לירי אלבג
+                        <span class="text-sm">18, ירחיב</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מהבסיס שבו שירתה
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/u0rkyadc/%D7%91%D7%A8-%D7%A7%D7%95%D7%A4%D7%A8%D7%A9%D7%98%D7%99%D7%99%D7%9F-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="בר קופרשטיין">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        בר קופרשטיין
+                        <span class="text-sm">21, חולון</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מהמסיבה ברעים
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/znnlzfgn/%D7%9E%D7%99%D7%99%D7%94-%D7%A9%D7%9D-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="מייה שם">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        מייה שם
+                        <span class="text-sm">21, שוהם</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מהמסיבה ברעים
+                    </div>
+                        <a href="/content/kan-news/local/571343/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/50tje5h2/%D7%90%D7%91%D7%99%D7%91-%D7%9B%D7%A5-%D7%90%D7%A9%D7%A8-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.png" class="img-fluid" alt="אביב כץ אשר">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אביב כץ אשר
+                        <span class="text-sm">2, גנות הדר</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                        <a href="/content/kan/special-sections/p-571459/580167/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/nsmgyabk/%D7%A8%D7%96-%D7%9B%D7%A5-%D7%90%D7%A9%D7%A8-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.png" class="img-fluid" alt="רז כץ אשר">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        רז כץ אשר
+                        <span class="text-sm">4, גנות הדר</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                        <a href="/content/kan/special-sections/p-571459/580167/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/gyfdafx4/%D7%93%D7%95%D7%A8%D7%95%D7%9F-%D7%9B%D7%A5-%D7%90%D7%A9%D7%A8-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.png" class="img-fluid" alt="דורון כץ אשר">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        דורון כץ אשר
+                        <span class="text-sm">34, גנות הדר</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                        <a href="/content/kan/special-sections/p-571459/580167/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/z4wlmsmj/%D7%9E%D7%99%D7%99%D7%94-%D7%9C%D7%99%D7%99%D7%9E%D7%91%D7%A8%D7%92-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.png" class="img-fluid" alt="מייה ליימברג">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        מייה ליימברג
+                        <span class="text-sm">17, ירושלים</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר יצחק
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573749/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/pegm0k2q/%D7%92%D7%91%D7%A8%D7%99%D7%90%D7%9C%D7%94-%D7%9C%D7%99%D7%99%D7%9E%D7%91%D7%A8%D7%92-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.png" class="img-fluid" alt="גבריאלה ליימברג">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        גבריאלה ליימברג
+                        <span class="text-sm">59, ירושלים</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר יצחק
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573749/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/eddfula3/%D7%A4%D7%A8%D7%A0%D7%A0%D7%93%D7%95-%D7%9E%D7%A8%D7%9E%D7%9F.jpg" class="img-fluid" alt="פרננדו מרמן">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        פרננדו מרמן
+                        <span class="text-sm">60, כפר סבא</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר יצחק
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573749/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/qdafpcx1/%D7%A7%D7%9C%D7%A8%D7%94-%D7%9E%D7%A8%D7%9E%D7%9F-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.png" class="img-fluid" alt="קלרה מרמן">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        קלרה מרמן
+                        <span class="text-sm">63, ניר יצחק</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר יצחק
+                    </div>
+                        <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573749/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/seeovmba/%D7%A2%D7%95%D7%9E%D7%A8-%D7%95%D7%A0%D7%A7%D7%A8%D7%98-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="עומר ונקרט">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        עומר ונקרט
+                        <span class="text-sm">22, גדרה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מהמסיבה ברעים
+                    </div>
+                        <a href="https://twitter.com/kann_news/status/1713183505687908678" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/cr1hoaob/%D7%90%D7%9C%D7%A2%D7%93-%D7%A7%D7%A6%D7%99%D7%A8.jpg" class="img-fluid" alt="אלעד קציר">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אלעד קציר
+                        <span class="text-sm">47, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ ניר עוז
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/qsudzpkz/%D7%90%D7%91%D7%99%D7%92%D7%99%D7%9C-%D7%A2%D7%99%D7%93%D7%9F-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="אביגיל עידן">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        אביגיל עידן
+                        <span class="text-sm">3, כפר עזה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ כפר עזה
+                    </div>
+                        <a href="https://twitter.com/kann_news/status/1715640878230897066" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/ctkhujhs/%D7%99%D7%A4%D7%94-%D7%90%D7%93%D7%A8.png" class="img-fluid" alt="יפה אדר">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        יפה אדר
+                        <span class="text-sm">85, ניר עוז</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מקיבוץ ניר עוז
+                    </div>
+                        <a href="/content/kan/special-sections/p-571459/573752/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/nnkcyc1t/%D7%A2%D7%A0%D7%91%D7%A8-%D7%94%D7%99%D7%9E%D7%9F-%D7%A4%D7%99%D7%99%D7%A1%D7%91%D7%95%D7%A7.jpg" class="img-fluid" alt="ענבר הימן">
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        ענבר הימן
+                        <span class="text-sm">27, חיפה</span>
+                    </div>
+                    <div class="card-text">
+                        נחטפה מהמסיבה ברעים
+                    </div>
+                        <a href="/content/kan/special-sections/p-571459/573746/" class="card-link" target="_blank">לכתבה &gt;</a>
+                </div>
+            </div>
+        </div>
+
+</div>
