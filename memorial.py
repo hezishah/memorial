@@ -1,13 +1,26 @@
 #Information taken from: https://www.kan.org.il/lobby/kidnapped/
 
+import re
+from urllib.parse import urlparse
 import xml.etree.ElementTree as ET
-import requests
+from urllib.request import Request
 import pygame
-from io import BytesIO
+#from io import BytesIO
 from bidi.algorithm import get_display
-import webview
+#import webview
 import urllib
+import http
+import cv2
+from face_detector import YoloDetector
+# importing the module
+#import bson
+#import numpy as np
 
+def urlEncodeNonAscii(b):
+    return re.sub('[\x80-\xFF]', lambda c: '%%%02x' % ord(c.group(0)), b)
+
+model = YoloDetector(target_size=720, device="cpu", min_face=90)
+    
 X = 230
 Y = 500
 ACTION = pygame.event.custom_type()
@@ -25,25 +38,88 @@ def getIndex(cur, len):
         curNew = 0
     return curNew
 
+images = []
+
 def displayPerson(indx, scrn, data):
+    global images
     scrn.fill((0,0,0))
     headers = {
         'User-Agent': 'Mozilla',
         'From': 'h@h.com'  # This is another valid field
     }
     # create a surface object, image is drawn on it.
-    response = None
-    while True:
+    img = None
+    if len(images) <= indx:
+        response = None
+
         try:
-            response = requests.get(urllib.parse.unquote(data[indx][0]), headers=headers)
-            break
-        except Exception as e:
-            print(e)
-    img = pygame.image.load(BytesIO(response.content))
-    
+            opener = urllib.request.build_opener()
+            url = urllib.parse.unquote(data[indx][0],encoding='utf-8')
+            urlparts = url.split("//")
+            
+            if len(urlparts) > 1:
+                urlparts[1] = urllib.parse.quote(urlparts[1])
+            url = "//".join(urlparts)
+            req = urllib.request.Request(
+                url, 
+                data=None, 
+                headers=headers
+            )
+            requestObj = urllib.request.urlopen(req)
+            response=b''
+            while True:
+                try:
+                    responseJSONpart = requestObj.read()
+                except http.client.IncompleteRead as icread:
+                    response = response + icread
+                    continue
+                else:
+                    response = response + responseJSONpart
+                    break
+            with open("images/" + str(indx) + ".jpg", "wb") as f:
+                f.write(response)
+            img = pygame.image.load("images/"+str(indx) + ".jpg")
+            images.append(img)
+        except Exception as RESTex:
+            print("Exception occurred making REST call: " + RESTex.__str__())
+            exit(0)
+    else:
+        img = images[indx]
     # Using blit to copy content from one surface to other
     factor = img.get_width() / 230.0
     IMAGE_SMALL = pygame.transform.scale(img, (230, img.get_height() / factor))
+    cvimg = pygame.surfarray.array3d(pygame.transform.flip(pygame.transform.rotate(img,90), flip_x=False, flip_y=True))
+    
+    while True:
+        bboxes,points = model.predict(cvimg)
+        if len(bboxes[0]) > 0:
+            break
+        cvimg = cv2.resize(cvimg, (0,0), fx=1.1, fy=1.1)
+        factor *= 1.1
+    #print(bboxes,points)
+
+    
+    for boxes in bboxes[0]:
+        pygame.draw.rect(IMAGE_SMALL, (0,255,0), pygame.Rect(boxes[0]/factor, boxes[1]/factor, (boxes[2]-boxes[0])/factor, (boxes[3]-boxes[1])/factor), 2)
+    if False:
+        # convert to grayscale of each frames
+        gray = cv2.cvtColor(cvimg, cv2.COLOR_RGB2GRAY)
+        # read haacascade to detect faces in input image
+        face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_alt.xml')
+        #face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
+
+        # detects faces in the input image
+        try:
+            faces = face_cascade.detectMultiScale(gray, 1.1, 2)
+            print('Number of detected faces:', len(faces))\
+
+            # loop over all the detected faces
+            for (x,y,w,h) in faces:
+                # To draw a rectangle around the detected face
+                pygame.draw.rect(IMAGE_SMALL, (0,255,255), pygame.Rect(x/factor, y/factor, w/factor, h/factor), 2)  
+                #cv2.rectangle(IMAGE_SMALL,(x,y),(x+w,y+h),(0,255,255),2)
+        except Exception as e:
+            print(e)
     scrn.blit(IMAGE_SMALL, (0, 0))
     x = 0
     y = 0
@@ -127,7 +203,7 @@ def main():
                 # if there's an ACTION event, invoke its action!!!
                 cur = i.action
                 displayPerson(cur, scrn, memorialData)
-                pygame.time.set_timer(pygame.event.Event(ACTION, action=getIndex(cur, len(memorialData))), 2000, 1)
+                pygame.time.set_timer(pygame.event.Event(ACTION, action=getIndex(cur, len(memorialData))), 1000, 1)
 
     
     # deactivates the pygame library
