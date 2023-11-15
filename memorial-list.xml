@@ -1,5 +1,22 @@
 <div class="memorial-list" id="memorial-result-container">
-                
+                    
+        <div class="memorial-list-item">
+            <div class="card">
+                <div class="card-img">
+                    <img src="https://cfcdn.kan.org.il/media/zqzlterr/יוסף-אלזיאדנה.jpg" class="img-fluid" alt="יוסף אלזיאדנה"/>
+                </div>
+                <div class="card-body">
+                    <div class="card-title">
+                        <span class="text-xs"></span>
+                        יוסף אלזיאדנה
+                        <span class="text-sm">53, רהט</span>
+                    </div>
+                    <div class="card-text">
+                        נחטף מקיבוץ חולית
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="memorial-list-item">
             <div class="card">
                 <div class="card-img">
@@ -71,23 +88,6 @@
         <div class="memorial-list-item">
             <div class="card">
                 <div class="card-img">
-                    <img src="https://cfcdn.kan.org.il/media/zpgloelu/ויויאן-סילבר.jpg" class="img-fluid" alt="ויויאן סילבר"/>
-                </div>
-                <div class="card-body">
-                    <div class="card-title">
-                        <span class="text-xs"></span>
-                        ויויאן סילבר
-                        <span class="text-sm">74, בארי</span>
-                    </div>
-                    <div class="card-text">
-                        נחטפה מקיבוץ בארי
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="memorial-list-item">
-            <div class="card">
-                <div class="card-img">
                     <img src="https://cfcdn.kan.org.il/media/k1bnhz4a/עדה-שגיא.jpg" class="img-fluid" alt="עדה שגיא"/>
                 </div>
                 <div class="card-body">
@@ -99,6 +99,7 @@
                     <div class="card-text">
                         נחטפה מקיבוץ ניר עוז
                     </div>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/599452/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
@@ -133,6 +134,7 @@
                     <div class="card-text">
                         נחטפה מקיבוץ ניר עוז
                     </div>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/573750/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
@@ -247,11 +249,12 @@
                     <div class="card-title">
                         <span class="text-xs"></span>
                         גדי חגי
-                        <span class="text-sm">73, ניר עוז</span>
+                        <span class="text-sm">73 ,ניר עוז</span>
                     </div>
                     <div class="card-text">
                         נחטף מקיבוץ ניר עוז
                     </div>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/599442/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
@@ -340,6 +343,8 @@
                 </div>
             </div>
         </div>
+
+                
         <div class="memorial-list-item">
             <div class="card">
                 <div class="card-img">
@@ -349,7 +354,7 @@
                     <div class="card-title">
                         <span class="text-xs"></span>
                         שגיא דקל חן
-                        <span class="text-sm">ניר עוז, 35</span>
+                        <span class="text-sm">35, ניר עוז</span>
                     </div>
                     <div class="card-text">
                         נחטף מקיבוץ ניר עוז
@@ -511,7 +516,6 @@
                 </div>
             </div>
         </div>
-
         <div class="memorial-list-item">
             <div class="card">
                 <div class="card-img">
@@ -598,6 +602,7 @@
                 </div>
             </div>
         </div>
+
         <div class="memorial-list-item">
             <div class="card">
                 <div class="card-img">
@@ -720,12 +725,12 @@
         <div class="memorial-list-item">
             <div class="card">
                 <div class="card-img">
-                    <img src="https://cfcdn.kan.org.il/media/24mf1ty4/עיישאה-אלזיאדנה.jpg" class="img-fluid" alt="עיישאה אלזיאדנה"/>
+                    <img src="https://cfcdn.kan.org.il/media/2xolx4gm/299x231.jpg" class="img-fluid" alt="עאישה אלזיאדנה"/>
                 </div>
                 <div class="card-body">
                     <div class="card-title">
                         <span class="text-xs"></span>
-                        עיישאה אלזיאדנה
+                        עאישה אלזיאדנה
                         <span class="text-sm">17, רהט</span>
                     </div>
                     <div class="card-text">
@@ -769,7 +774,6 @@
                 </div>
             </div>
         </div>
-
         <div class="memorial-list-item">
             <div class="card">
                 <div class="card-img">
@@ -784,6 +788,7 @@
                     <div class="card-text">
                         נחטפה מקיבוץ בארי
                     </div>
+                        <a href="https://kan.org.il/content/kan/kan-11/p-578726/589189/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
@@ -852,9 +857,11 @@
                     <div class="card-text">
                         נחטפה מקיבוץ בארי
                     </div>
+                        <a href="https://kan.org.il/content/kan/kan-11/p-578726/589189/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
+
         <div class="memorial-list-item">
             <div class="card">
                 <div class="card-img">
@@ -869,6 +876,7 @@
                     <div class="card-text">
                         נחטף מקיבוץ כפר עזה
                     </div>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/599405/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
@@ -886,6 +894,7 @@
                     <div class="card-text">
                         נחטף מקיבוץ כפר עזה
                     </div>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/599405/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
@@ -954,6 +963,7 @@
                     <div class="card-text">
                         נחטף מקיבוץ בארי
                     </div>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/599527/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
@@ -971,6 +981,7 @@
                     <div class="card-text">
                         נחטף מהמסיבה ברעים
                     </div>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/599353/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
@@ -1022,10 +1033,10 @@
                     <div class="card-text">
                         נחטף מקיבוץ ניר עוז
                     </div>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/599517/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
-
         <div class="memorial-list-item">
             <div class="card">
                 <div class="card-img">
@@ -1040,6 +1051,7 @@
                     <div class="card-text">
                         נחטפה מקיבוץ ניר עוז
                     </div>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/599525/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
@@ -1112,6 +1124,7 @@
                 </div>
             </div>
         </div>
+
         <div class="memorial-list-item">
             <div class="card">
                 <div class="card-img">
@@ -1126,6 +1139,7 @@
                     <div class="card-text">
                         נחטף מקיבוץ נירים
                     </div>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/599356/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
@@ -1231,18 +1245,19 @@
                     <div class="card-text">
                         נחטפה מקיבוץ ניר עוז
                     </div>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/599485/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
         <div class="memorial-list-item">
             <div class="card">
                 <div class="card-img">
-                    <img src="https://cfcdn.kan.org.il/media/uolppudl/חמזה-זיידנה.jpg" class="img-fluid" alt="חמזה זיאדנה"/>
+                    <img src="https://cfcdn.kan.org.il/media/uolppudl/חמזה-זיידנה.jpg" class="img-fluid" alt="חמזה אלזיאדנה"/>
                 </div>
                 <div class="card-body">
                     <div class="card-title">
                         <span class="text-xs"></span>
-                        חמזה זיאדנה
+                        חמזה אלזיאדנה
                         <span class="text-sm">22, רהט</span>
                     </div>
                     <div class="card-text">
@@ -1271,12 +1286,12 @@
         <div class="memorial-list-item">
             <div class="card">
                 <div class="card-img">
-                    <img src="https://cfcdn.kan.org.il/media/t5rbdhd4/בלאל-זיידנה.jpg" class="img-fluid" alt="בלאל זיאדנה"/>
+                    <img src="https://cfcdn.kan.org.il/media/t5rbdhd4/בלאל-זיידנה.jpg" class="img-fluid" alt="בלאל אלזיאדנה"/>
                 </div>
                 <div class="card-body">
                     <div class="card-title">
                         <span class="text-xs"></span>
-                        בלאל זיאדנה
+                        בלאל אלזיאדנה
                         <span class="text-sm">19, רהט</span>
                     </div>
                     <div class="card-text">
@@ -1285,7 +1300,6 @@
                 </div>
             </div>
         </div>
-
         <div class="memorial-list-item">
             <div class="card">
                 <div class="card-img">
@@ -1372,6 +1386,7 @@
                 </div>
             </div>
         </div>
+
         <div class="memorial-list-item">
             <div class="card">
                 <div class="card-img">
@@ -1550,7 +1565,6 @@
                 </div>
             </div>
         </div>
-
         <div class="memorial-list-item">
             <div class="card">
                 <div class="card-img">
@@ -1641,6 +1655,7 @@
                 </div>
             </div>
         </div>
+
         <div class="memorial-list-item">
             <div class="card">
                 <div class="card-img">
@@ -1814,7 +1829,6 @@
                 </div>
             </div>
         </div>
-
         <div class="memorial-list-item">
             <div class="card">
                 <div class="card-img">
@@ -1847,6 +1861,7 @@
                     <div class="card-text">
                         נחטף מהמסיבה ברעים
                     </div>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/599462/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
@@ -1902,6 +1917,7 @@
                 </div>
             </div>
         </div>
+
         <div class="memorial-list-item">
             <div class="card">
                 <div class="card-img">
@@ -1916,6 +1932,7 @@
                     <div class="card-text">
                         נחטפה מקיבוץ בארי
                     </div>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/599516/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
@@ -1933,6 +1950,7 @@
                     <div class="card-text">
                         נחטפה מהמסיבה ברעים
                     </div>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/599427/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
@@ -2078,7 +2096,6 @@
                 </div>
             </div>
         </div>
-
         <div class="memorial-list-item">
             <div class="card">
                 <div class="card-img">
@@ -2128,6 +2145,7 @@
                     <div class="card-text">
                         נחטף מהמסיבה ברעים
                     </div>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/599473/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
@@ -2167,6 +2185,7 @@
                 </div>
             </div>
         </div>
+
         <div class="memorial-list-item">
             <div class="card">
                 <div class="card-img">
@@ -2345,7 +2364,6 @@
                 </div>
             </div>
         </div>
-
         <div class="memorial-list-item">
             <div class="card">
                 <div class="card-img">
@@ -2414,6 +2432,7 @@
                     <div class="card-text">
                         נחטף מקיבוץ בארי
                     </div>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/599531/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
@@ -2431,9 +2450,11 @@
                     <div class="card-text">
                         נחטף מהבסיס שבו שירת
                     </div>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/599433/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
+
         <div class="memorial-list-item">
             <div class="card">
                 <div class="card-img">
@@ -2554,6 +2575,7 @@
                     <div class="card-text">
                         נחטף מקיבוץ בארי
                     </div>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/599516/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
@@ -2608,7 +2630,6 @@
                 </div>
             </div>
         </div>
-
         <div class="memorial-list-item">
             <div class="card">
                 <div class="card-img">
@@ -2699,6 +2720,7 @@
                 </div>
             </div>
         </div>
+
         <div class="memorial-list-item">
             <div class="card">
                 <div class="card-img">
@@ -2731,6 +2753,7 @@
                     <div class="card-text">
                         נחטף מהמסיבה ברעים
                     </div>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/599495/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
@@ -2766,6 +2789,7 @@
                     <div class="card-text">
                         נחטף מהמסיבה ברעים
                     </div>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/599518/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
@@ -2801,6 +2825,7 @@
                     <div class="card-text">
                         נחטף מקיבוץ בארי
                     </div>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/599526/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
@@ -2872,10 +2897,10 @@
                     <div class="card-text">
                         נחטפה מקיבוץ ניר עוז
                     </div>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/573756/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
-
         <div class="memorial-list-item">
             <div class="card">
                 <div class="card-img">
@@ -2890,6 +2915,7 @@
                     <div class="card-text">
                         נחטפה מהבסיס שבו שירתה
                     </div>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/599406/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
@@ -2907,6 +2933,7 @@
                     <div class="card-text">
                         נחטף מהמסיבה ברעים
                     </div>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/599528/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
@@ -2924,7 +2951,7 @@
                     <div class="card-text">
                         נחטפה מהמסיבה ברעים
                     </div>
-                        <a href="https://www.kan.org.il/content/kan-news/local/571343/" class="card-link" target="_blank">לכתבה &gt;</a>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/599519/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
@@ -2964,6 +2991,7 @@
                 </div>
             </div>
         </div>
+
         <div class="memorial-list-item">
             <div class="card">
                 <div class="card-img">
@@ -3068,7 +3096,7 @@
                     <div class="card-text">
                         נחטף מהמסיבה ברעים
                     </div>
-                        <a href="https://twitter.com/kann_news/status/1713183505687908678" class="card-link" target="_blank">לכתבה &gt;</a>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/599355/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
@@ -3086,6 +3114,7 @@
                     <div class="card-text">
                         נחטף מקיבוץ ניר עוז
                     </div>
+                        <a href="https://kan.org.il/content/kan/special-sections/p-571459/599525/" class="card-link" target="_blank">לכתבה &gt;</a>
                 </div>
             </div>
         </div>
@@ -3143,9 +3172,5 @@
                 </div>
             </div>
         </div>
-
-
-
-
 
 </div>
