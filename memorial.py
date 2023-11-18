@@ -21,7 +21,7 @@ def urlEncodeNonAscii(b):
 
 model = YoloDetector(target_size=720, device="cpu", min_face=90)
     
-X = 230
+X = 640
 Y = 500
 ACTION = pygame.event.custom_type()
 ACTION_ZOOM = pygame.event.custom_type()
@@ -98,7 +98,7 @@ def displayPerson(indx, scrn, data):
         img = images[indx]
     # Using blit to copy content from one surface to other
     factor = img.get_width() / 230.0
-    IMAGE_SMALL = pygame.transform.scale(img, (230, img.get_height() / factor))
+    #IMAGE_SMALL = pygame.transform.scale(img, (230, img.get_height() / factor))
     cvimg = pygame.surfarray.array3d(pygame.transform.flip(pygame.transform.rotate(img,90), flip_x=False, flip_y=True))
     retry = 10
     fxy = 1.0
@@ -118,11 +118,6 @@ def displayPerson(indx, scrn, data):
             boxes[2] /= fxy
             boxes[3] /= fxy
     #print(bboxes,points)
-    boxwidthx = bboxes[0][0][2] - bboxes[0][0][0]
-    scale = boxwidthx / (img.get_width() * 2.0)
-    if scale < 1.0:
-        scale = 1.0
-    scaleStart = scale
     bbox = bboxes[0][0]
     for boxes in bboxes[0]:
         #pygame.draw.rect(IMAGE_SMALL, (0,255,0), pygame.Rect(boxes[0]/factor, boxes[1]/factor, (boxes[2]-boxes[0])/factor, (boxes[3]-boxes[1])/factor), 2)
@@ -130,6 +125,12 @@ def displayPerson(indx, scrn, data):
         bbox[1] = min(bbox[1],boxes[1])
         bbox[2] = max(bbox[2],boxes[2])
         bbox[3] = max(bbox[3],boxes[3])
+    boxwidthx = bboxes[0][0][2] - bboxes[0][0][0]
+    scale = img.get_width() / ( boxwidthx * 2.0)
+    if scale < 1.0:
+        scale = 1.0
+    scaleStart = scale
+    scale = 1.0
     return
     if False:
         # convert to grayscale of each frames
@@ -187,29 +188,30 @@ def zoomPerson(indx, scrn, data):
     scrn.fill((0,0,0))
     # create a surface object, image is drawn on it.
     img = images[indx]
+    scaleLocal = scale * scaleStart
     # Using blit to copy content from one surface to other
-    factor = ( scale * 230.0 ) / img.get_width()
-    dx = (bbox[0] + bbox[2])/4.0
-    dy = (bbox[1] + bbox[3])/4.0
+    factor = ( scaleLocal * 230.0 ) / img.get_width()
+    dx = bbox[0]
+    dy = bbox[1]
     boxwidthx = (bbox[2] - bbox[0]) * factor
     #if boxwidthx < 230:
     scale += 0.01 
     IMAGE_SMALL = pygame.transform.smoothscale_by(img, factor)
 
-    #pygame.draw.rect(IMAGE_SMALL, (0,255,0), pygame.Rect(bbox[0]/factor, bbox[1]/factor, (bbox[2]-bbox[0])/factor, (bbox[3]-bbox[1])/factor), 2)
-    x = (scale - scaleStart) * ( - dx * factor) - (scale - scaleStart) * 50.0
-    y = (scale - scaleStart) * ( - dy * factor) + (scale - scaleStart) * 50.0
+    #pygame.draw.rect(IMAGE_SMALL, (0,255,0), pygame.Rect(bbox[0]*factor, bbox[1]*factor, (bbox[2]-bbox[0])*factor, (bbox[3]-bbox[1])*factor), 2)
+    x = 0 * min(- dx * factor , 20) + (X - IMAGE_SMALL.get_width()) / 2
+    y = min(- dy * factor , 20)
     scrn.blit(IMAGE_SMALL, (x,y))
     #print((x,y))
-    pygame.draw.rect(scrn, (0,0,0), (0, scrn.get_height()-150, scrn.get_width(), 300))
+    pygame.draw.rect(scrn, (0,0,0), (0, scrn.get_height()-100, scrn.get_width(), 300))
 
     x = 0.0
     y = 0.0
     pygame.font.init()
     font = pygame.font.SysFont("tahoma", 20)
     width, height = font.size(data[indx][1])
-    xoffset = (X-width) // 1.5
-    yoffset = (Y-height) // 1.5 + 100
+    xoffset = (X-width) // 2.0
+    yoffset = (Y-height) // 1.5 + 90
     coords = x+xoffset, y+yoffset
     color=(255,0,100)
     bidi_text = get_display(data[indx][1])
@@ -218,8 +220,8 @@ def zoomPerson(indx, scrn, data):
     
 
     width, height = font.size(data[indx][2])
-    xoffset = (X-width) // 1.5
-    yoffset = (Y-height) // 1.5 + 150
+    xoffset = (X-width) // 2.0
+    yoffset = (Y-height) // 1.5 + 140
     coords = x+xoffset, y+yoffset
     color=(100,100,255)
     bidi_text = get_display(data[indx][2])
@@ -260,7 +262,7 @@ def main():
  
     # create the display surface object
     # of specific dimension..e(X, Y).
-    scrn = pygame.display.set_mode((X, Y), flags=pygame.HWACCEL, vsync=1)
+    scrn = pygame.display.set_mode((X, Y), flags=pygame.SCALED | pygame.RESIZABLE, vsync=1)
     
     #webview.create_window(memorialData[0][2], memorialData[0][0])
     #webview.start()
