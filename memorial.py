@@ -200,7 +200,7 @@ def zoomPerson(indx, scrn, data):
 
     #pygame.draw.rect(IMAGE_SMALL, (0,255,0), pygame.Rect(bbox[0]*factor, bbox[1]*factor, (bbox[2]-bbox[0])*factor, (bbox[3]-bbox[1])*factor), 2)
     x = 0 * min(- dx * factor , 20) + (X - IMAGE_SMALL.get_width()) / 2
-    y = min(- dy * factor , 20)
+    y = - dy * factor / 2
     scrn.blit(IMAGE_SMALL, (x,y))
     #print((x,y))
     pygame.draw.rect(scrn, (0,0,0), (0, scrn.get_height()-100, scrn.get_width(), 300))
@@ -262,7 +262,7 @@ def main():
  
     # create the display surface object
     # of specific dimension..e(X, Y).
-    scrn = pygame.display.set_mode((X, Y), flags=pygame.SCALED | pygame.RESIZABLE, vsync=1)
+    scrn = pygame.display.set_mode((X, Y), flags = pygame.SCALED | pygame.RESIZABLE | pygame.HWSURFACE | pygame.HWACCEL, vsync=1)
     
     #webview.create_window(memorialData[0][2], memorialData[0][0])
     #webview.start()
