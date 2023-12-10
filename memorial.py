@@ -255,14 +255,15 @@ def main():
             if len(val.strip()) > 0:
                 #print(val)
                 img = val
-                memorialData.append([name, takenFrom,img])
+                if not 'חולץ' in  img and not 'חולצ' in  img and not 'שוחרר' in  img and not 'נהרג' in  img and not 'נרצח' in  img and not 'גופת' in  img:
+                    memorialData.append([name, takenFrom,img])
     #print(memorialData)
     # activate the pygame library .
     pygame.init()
  
     # create the display surface object
     # of specific dimension..e(X, Y).
-    scrn = pygame.display.set_mode((X, Y), flags = pygame.SCALED | pygame.RESIZABLE | pygame.HWSURFACE | pygame.HWACCEL, vsync=1)
+    scrn = pygame.display.set_mode((X, Y), flags = pygame.RESIZABLE | pygame.HWSURFACE | pygame.HWACCEL, vsync=1) #pygame.SCALED | 
     
     #webview.create_window(memorialData[0][2], memorialData[0][0])
     #webview.start()
