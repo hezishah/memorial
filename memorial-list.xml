@@ -3,18 +3,198 @@
     <div class="memorial-list-item">
         <div class="card">
             <div class="card-img">
-                <img src="https://cfcdn.kan.org.il/media/klbbedaj/גיא-גלבוע-דלאל.jpg" class="img-fluid" alt="גיא גלבוע דלאל"/>
+                <img src="https://cfcdn.kan.org.il/media/h5mecsva/ענבר-היימן.jpg" class="img-fluid" alt="ענבר הימן"/>
             </div>
             <div class="card-body">
                 <div class="card-title">
                     <span class="text-xs"></span>
-                    גיא גלבוע דלאל
-                    <span class="text-sm">22, אלפי מנשה</span>
+                    ענבר הימן
+                    <span class="text-sm">27, חיפה</span>
                 </div>
                 <div class="card-text">
-                    נחטף מהמסיבה ברעים
+                    נרצחה בשבי חמאס. נחטפה מהמסיבה ברעים
                 </div>
-                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599462/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/local/656282/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
+            </div>
+        </div>
+    </div>
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/rddpmcmn/אלון-שמריז.jpg" class="img-fluid" alt="אלון לולו שמריז"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs"></span>
+                    אלון לולו שמריז
+                    <span class="text-sm">26, כפר עזה</span>
+                </div>
+                <div class="card-text">
+                    נהרג בשוגג מאש צה"ל בעזה. נחטף מכפר עזה
+                </div>
+                    <a href="/content/kan-news/defense/655890/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
+            </div>
+        </div>
+    </div>
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/h2rjljee/סאמר-פואד-אל-טלאלקה.jpg" class="img-fluid" alt="סאמר פואד אל-טלאלקה"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs"></span>
+                    סאמר פואד אל-טלאלקה
+                    <span class="text-sm">24, חורה</span>
+                </div>
+                <div class="card-text">
+                    נהרג בשוגג מאש צה"ל בעזה. נחטף מקיבוץ ניר עוז
+                </div>
+                    <a href="/content/kan-news/defense/live-655499/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
+            </div>
+        </div>
+    </div>
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/ferda440/יותם-חיים.jpg" class="img-fluid" alt="יותם חיים"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs"></span>
+                    יותם חיים
+                    <span class="text-sm">28, כפר עזה</span>
+                </div>
+                <div class="card-text">
+                    נהרג בשוגג מאש צה"ל בעזה. נחטף מכפר עזה
+                </div>
+                    <a href="/content/kan-news/defense/live-655499/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
+            </div>
+        </div>
+    </div>
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/fj1edbwv/312.jpg" class="img-fluid" alt="אליה טולדנו"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs"></span>
+                    אליה טולדנו
+                    <span class="text-sm">28, תל אביב</span>
+                </div>
+                <div class="card-text">
+                    נחטף מהמסיבה ברעים ונרצח. כוחות צה"ל חילצו את גופתו
+                </div>
+                    <a href="/content/kan-news/defense/655540/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
+            </div>
+        </div>
+    </div>
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/4yfai3e5/עדן-זכריה.png" class="img-fluid" alt="עדן זכריה"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs"></span>
+                    עדן זכריה
+                    <span class="text-sm">27, ראשון לציון</span>
+                </div>
+                <div class="card-text">
+                    נחטפה מהמסיבה ברעים ונרצחה. כוחות צה"ל חילצו את גופתה
+                </div>
+                    <a href="/content/kan-news/defense/652801/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
+            </div>
+        </div>
+    </div>
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/j4ajliae/ניק.jpg" class="img-fluid" alt="ניק בייזר"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs">רב"ט</span>
+                    ניק בייזר
+                    <span class="text-sm">19, באר שבע</span>
+                </div>
+                <div class="card-text">
+                    נחטף מהבסיס בו שירת ונרצח. כוחות צה"ל חילצו את גופתו
+                </div>
+                    <a href="/content/kan-news/defense/655607/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
+            </div>
+        </div>
+    </div>
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/1twjibky/רון-שרמן.jpg" class="img-fluid" alt="רון שרמן"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs">סמל</span>
+                    רון שרמן
+                    <span class="text-sm">19, להבים</span>
+                </div>
+                <div class="card-text">
+                    נחטף מהבסיס בו שירת ונרצח. כוחות צה"ל חילצו את גופתו 
+                </div>
+                    <a href="/content/kan-news/defense/655607/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
+            </div>
+        </div>
+    </div>
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/acagwvyy/גושוע-לויטו-מולל.jpg" class="img-fluid" alt="ג'ושוע לואיטו מולל"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs"></span>
+                    ג'ושוע לואיטו מולל
+                    <span class="text-sm">21, אזרח טנזניה</span>
+                </div>
+                <div class="card-text">
+                    נרצח בשבי חמאס. נחטף מקיבוץ נחל עוז
+                </div>
+                    <a href="/content/kan-news/local/654437/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
+            </div>
+        </div>
+    </div>
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/weepcglg/טל-חיימי.png" class="img-fluid" alt="טל חיימי"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs"></span>
+                    טל חיימי
+                    <span class="text-sm">42, ניר יצחק</span>
+                </div>
+                <div class="card-text">
+                    נרצח ב-7 באוקטובר. גופתו נחטפה לעזה
+                </div>
+                    <a href="/content/kan-news/local/654331/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
+            </div>
+        </div>
+    </div>
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/eqgeut43/זיו-דדו.jpg" class="img-fluid" alt="זיו דדו"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs">רס"ב</span>
+                    זיו דדו
+                    <span class="text-sm">36, רחובות</span>
+                </div>
+                <div class="card-text">
+                    נהרג ב-7.10. כוחות צה"ל חילצו את גופתו
+                </div>
+                    <a href="/content/kan-news/defense/652801/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -32,7 +212,7 @@
                 <div class="card-text">
                     נרצח בשבי חמאס. נחטף מקיבוץ בארי
                 </div>
-                    <a href="/content/kan-news/local/647379/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/local/647379/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -50,7 +230,7 @@
                 <div class="card-text">
                     נרצח בשבי חמאס. נחטף מאזור קיבוץ בארי
                 </div>
-                    <a href="/content/kan-news/defense/646121/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/646121/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -68,7 +248,7 @@
                 <div class="card-text">
                     
                 </div>
-                    <a href="/content/kan/podcasts/p-8318/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan/podcasts/p-8318/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -92,23 +272,6 @@
     <div class="memorial-list-item">
         <div class="card">
             <div class="card-img">
-                <img src="https://cfcdn.kan.org.il/media/3gygekwa/אמילי-דמארי.jpg" class="img-fluid" alt="אמילי תהילה דמארי"/>
-            </div>
-            <div class="card-body">
-                <div class="card-title">
-                    <span class="text-xs"></span>
-                    אמילי תהילה דמארי
-                    <span class="text-sm">27, כפר עזה</span>
-                </div>
-                <div class="card-text">
-                    נחטפה מקיבוץ כפר עזה
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="memorial-list-item">
-        <div class="card">
-            <div class="card-img">
                 <img src="https://cfcdn.kan.org.il/media/rc5k3gwg/רביד-כץ.jpg" class="img-fluid" alt="רביד כץ"/>
             </div>
             <div class="card-body">
@@ -120,7 +283,7 @@
                 <div class="card-text">
                     נרצח בקיבוץ ניר עוז וגופתו נחטפה לעזה
                 </div>
-                    <a href="/content/kan-news/defense/627873/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/627873/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -144,92 +307,6 @@
     <div class="memorial-list-item">
         <div class="card">
             <div class="card-img">
-                <img src="https://cfcdn.kan.org.il/media/eqgeut43/זיו-דדו.jpg" class="img-fluid" alt="זיו דדו"/>
-            </div>
-            <div class="card-body">
-                <div class="card-title">
-                    <span class="text-xs">רס"ב</span>
-                    זיו דדו
-                    <span class="text-sm">36, רחובות</span>
-                </div>
-                <div class="card-text">
-                    נהרג ב-7.10 וגופתו נחטפה לעזה
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="memorial-list-item">
-        <div class="card">
-            <div class="card-img">
-                <img src="https://cfcdn.kan.org.il/media/20apkogt/סטיאן-סוונאקאם.jpg" class="img-fluid" alt="סטיאן סוונאקאם"/>
-            </div>
-            <div class="card-body">
-                <div class="card-title">
-                    <span class="text-xs"></span>
-                    סטיאן סוונאקאם
-                    <span class="text-sm">34, תאילנד</span>
-                </div>
-                <div class="card-text">
-                    נחטף מקיבוץ ניר עוז
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="memorial-list-item">
-        <div class="card">
-            <div class="card-img">
-                <img src="https://cfcdn.kan.org.il/media/prdawxur/וואטצרה-סריון.jpg" class="img-fluid" alt="וואטצ'רה סריון"/>
-            </div>
-            <div class="card-body">
-                <div class="card-title">
-                    <span class="text-xs"></span>
-                    וואטצ'רה סריון
-                    <span class="text-sm">32, תאילנד</span>
-                </div>
-                <div class="card-text">
-                    נחטף מקיבוץ ניר עוז
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="memorial-list-item">
-        <div class="card">
-            <div class="card-img">
-                <img src="https://cfcdn.kan.org.il/media/n0vj2lhu/נטפונג-פינטה.jpg" class="img-fluid" alt="נטפונג פינטה"/>
-            </div>
-            <div class="card-body">
-                <div class="card-title">
-                    <span class="text-xs"></span>
-                    נטפונג פינטה
-                    <span class="text-sm">35, תאילנד</span>
-                </div>
-                <div class="card-text">
-                    קיבוץ ניר עוז
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="memorial-list-item">
-        <div class="card">
-            <div class="card-img">
-                <img src="https://cfcdn.kan.org.il/media/toaist0r/טמפלייט-תמונות-חטופים-recovered.png" class="img-fluid" alt="צ'קרפאן סיקנה"/>
-            </div>
-            <div class="card-body">
-                <div class="card-title">
-                    <span class="text-xs"></span>
-                    צ'קרפאן סיקנה
-                    <span class="text-sm">תאילנד</span>
-                </div>
-                <div class="card-text">
-                    שוחרר אחרי 54 ימים בשבי
-                </div>
-                    <a href="/content/kan-news/defense/631674/" class="card-link" target="_blank">לכתבה &gt;</a>
-            </div>
-        </div>
-    </div>
-    <div class="memorial-list-item">
-        <div class="card">
-            <div class="card-img">
                 <img src="https://cfcdn.kan.org.il/media/ydkpt24e/אסף-חממי.jpg" class="img-fluid" alt="אסף חממי"/>
             </div>
             <div class="card-body">
@@ -241,7 +318,7 @@
                 <div class="card-text">
                     מפקד החטיבה הדרומית. נהרג ב-7.10 וגופתו נחטפה לעזה
                 </div>
-                    <a href="/content/kan-news/defense/628165/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/628165/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -259,7 +336,7 @@
                 <div class="card-text">
                     נחטף לעזה מאזור מפלסים
                 </div>
-                    <a href="/content/kan-news/defense/635368/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/635368/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -277,25 +354,7 @@
                 <div class="card-text">
                     נרצח וגופתו נחטפה לעזה
                 </div>
-                    <a href="/content/kan-news/defense/602606/" class="card-link" target="_blank">לכתבה &gt;</a>
-            </div>
-        </div>
-    </div>
-    <div class="memorial-list-item">
-        <div class="card">
-            <div class="card-img">
-                <img src="https://cfcdn.kan.org.il/media/nssnd00q/312.jpg" class="img-fluid" alt="קונג סאאלאו"/>
-            </div>
-            <div class="card-body">
-                <div class="card-title">
-                    <span class="text-xs"></span>
-                    קונג סאאלאו
-                    <span class="text-sm">תאילנד</span>
-                </div>
-                <div class="card-text">
-                    שוחרר אחרי 54 ימים בשבי
-                </div>
-                    <a href="/content/kan-news/defense/631674/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/602606/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -313,7 +372,7 @@
                 <div class="card-text">
                     נרצחה בשבי חמאס. נחטפה מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan-news/local/634350/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/local/634350/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -331,7 +390,7 @@
                 <div class="card-text">
                     שוחררה אחרי 55 ימים בשבי. נחטפה מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan-news/defense/631718/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/631718/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -349,79 +408,7 @@
                 <div class="card-text">
                     נרצחה בשבי חמאס. נחטפה מקיבוץ בארי
                 </div>
-                    <a href="/content/kan-news/local/634350/" class="card-link" target="_blank">לכתבה &gt;</a>
-            </div>
-        </div>
-    </div>
-    <div class="memorial-list-item">
-        <div class="card">
-            <div class="card-img">
-                <img src="https://cfcdn.kan.org.il/media/y4ehcy4z/אורי-מגידיש.jpg" class="img-fluid" alt="אורי מגידיש"/>
-            </div>
-            <div class="card-body">
-                <div class="card-title">
-                    <span class="text-xs"></span>
-                    אורי מגידיש
-                    <span class="text-sm">18, קרית גת</span>
-                </div>
-                <div class="card-text">
-                    חולצה מהשבי אחרי 24 ימים. נחטפה ממוצב נחל עוז
-                </div>
-                    <a href="/content/kan-news/defense/589096/" class="card-link" target="_blank">לכתבה &gt;</a>
-            </div>
-        </div>
-    </div>
-    <div class="memorial-list-item">
-        <div class="card">
-            <div class="card-img">
-                <img src="https://cfcdn.kan.org.il/media/ceggmn21/נורית-קופר.jpeg" class="img-fluid" alt="נורית קופר"/>
-            </div>
-            <div class="card-body">
-                <div class="card-title">
-                    <span class="text-xs"></span>
-                    נורית קופר
-                    <span class="text-sm">80, ניר עוז</span>
-                </div>
-                <div class="card-text">
-                    שוחררה אחרי 17 ימים בשבי. נחטפה מקיבוץ ניר עוז
-                </div>
-                    <a href="/content/kan-news/defense/580200/" class="card-link" target="_blank">לכתבה &gt;</a>
-            </div>
-        </div>
-    </div>
-    <div class="memorial-list-item">
-        <div class="card">
-            <div class="card-img">
-                <img src="https://cfcdn.kan.org.il/media/bo4llyl3/יוכבד-ליפשיץ.jpg" class="img-fluid" alt="יוכבד ליפשיץ"/>
-            </div>
-            <div class="card-body">
-                <div class="card-title">
-                    <span class="text-xs"></span>
-                    יוכבד ליפשיץ
-                    <span class="text-sm">85, ניר עוז</span>
-                </div>
-                <div class="card-text">
-                    שוחררה אחרי 17 ימים בשבי. נחטפה מקיבוץ ניר עוז
-                </div>
-                    <a href="/content/kan/kan-actual/p-11894/news-item/581442/" class="card-link" target="_blank">לכתבה &gt;</a>
-            </div>
-        </div>
-    </div>
-    <div class="memorial-list-item">
-        <div class="card">
-            <div class="card-img">
-                <img src="https://cfcdn.kan.org.il/media/qnsdnoo5/נטלי-רענן.jpg" class="img-fluid" alt="נטלי רענן"/>
-            </div>
-            <div class="card-body">
-                <div class="card-title">
-                    <span class="text-xs"></span>
-                    נטלי רענן
-                    <span class="text-sm">17, שיקגו</span>
-                </div>
-                <div class="card-text">
-                    שוחררה אחרי 14 ימים בשבי. נחטפה מקיבוץ נחל עוז
-                </div>
-                    <a href="/content/kan/kan-actual/p-11894/news-item/577589/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/local/634350/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -445,42 +432,6 @@
     <div class="memorial-list-item">
         <div class="card">
             <div class="card-img">
-                <img src="https://cfcdn.kan.org.il/media/sn5fkwvm/יהודית-רענן.jpg" class="img-fluid" alt="יהודית רענן"/>
-            </div>
-            <div class="card-body">
-                <div class="card-title">
-                    <span class="text-xs"></span>
-                    יהודית רענן
-                    <span class="text-sm">59, שיקגו</span>
-                </div>
-                <div class="card-text">
-                    שוחררה אחרי 14 ימים בשבי. נחטפה מקיבוץ נחל עוז
-                </div>
-                    <a href="/content/kan/kan-actual/p-11894/news-item/577589/" class="card-link" target="_blank">לכתבה &gt;</a>
-            </div>
-        </div>
-    </div>
-    <div class="memorial-list-item">
-        <div class="card">
-            <div class="card-img">
-                <img src="https://cfcdn.kan.org.il/media/g04d4cnh/שני-לוק.jpg" class="img-fluid" alt="שני לוק"/>
-            </div>
-            <div class="card-body">
-                <div class="card-title">
-                    <span class="text-xs"></span>
-                    שני לוק
-                    <span class="text-sm">23, שריגים-ליאון</span>
-                </div>
-                <div class="card-text">
-                    נרצחה במסיבה ברעים. גופתה נחטפה לעזה
-                </div>
-                    <a href="/content/kan/special-sections/p-571459/573753/" class="card-link" target="_blank">לכתבה &gt;</a>
-            </div>
-        </div>
-    </div>
-    <div class="memorial-list-item">
-        <div class="card">
-            <div class="card-img">
                 <img src="https://cfcdn.kan.org.il/media/jbchh4j2/מקסים-הרקין.jpeg" class="img-fluid" alt="מקסים הרקין"/>
             </div>
             <div class="card-body">
@@ -498,24 +449,6 @@
     <div class="memorial-list-item">
         <div class="card">
             <div class="card-img">
-                <img src="https://cfcdn.kan.org.il/media/wxan0xqp/נועה-מרציאנו.jpg" class="img-fluid" alt="נועה מרציאנו"/>
-            </div>
-            <div class="card-body">
-                <div class="card-title">
-                    <span class="text-xs">רב"ט</span>
-                    נועה מרציאנו
-                    <span class="text-sm">19, מודיעין</span>
-                </div>
-                <div class="card-text">
-                    נרצחה בשבי חמאס. נחטפה מבסיס נחל עוז
-                </div>
-                    <a href="/content/kan-news/defense/612219/" class="card-link" target="_blank">לכתבה &gt;</a>
-            </div>
-        </div>
-    </div>
-    <div class="memorial-list-item">
-        <div class="card">
-            <div class="card-img">
                 <img src="https://cfcdn.kan.org.il/media/0g1bvd1s/43כג.jpg" class="img-fluid" alt="אוטאי טונסרי"/>
             </div>
             <div class="card-body">
@@ -527,7 +460,7 @@
                 <div class="card-text">
                     שוחרר אחרי 49 יום בשבי
                 </div>
-                    <a href="/content/kan-news/defense/622783/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/622783/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -545,7 +478,7 @@
                 <div class="card-text">
                     שוחרר אחרי 54 ימים בשבי
                 </div>
-                    <a href="/content/kan-news/defense/631674/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/631674/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -563,7 +496,7 @@
                 <div class="card-text">
                     שוחרר אחרי 54 ימים בשבי. נחטף מקיבוץ בארי
                 </div>
-                    <a href="/content/kan-news/defense/629891/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/629891/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -581,7 +514,7 @@
                 <div class="card-text">
                     שוחרר מהשבי אחרי 49 יום
                 </div>
-                    <a href="/content/kan-news/defense/622783/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/622783/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -599,7 +532,7 @@
                 <div class="card-text">
                     שוחרר אחרי 49 ימים בשבי 
                 </div>
-                    <a href="/content/kan-news/defense/622783/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/622783/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -617,7 +550,7 @@
                 <div class="card-text">
                     שוחרר אחרי 49 יום בשבי
                 </div>
-                    <a href="/content/kan-news/defense/622783/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/622783/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -658,6 +591,23 @@
     <div class="memorial-list-item">
         <div class="card">
             <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/3gygekwa/אמילי-דמארי.jpg" class="img-fluid" alt="אמילי תהילה דמארי"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs"></span>
+                    אמילי תהילה דמארי
+                    <span class="text-sm">27, כפר עזה</span>
+                </div>
+                <div class="card-text">
+                    נחטפה מקיבוץ כפר עזה
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
                 <img src="https://cfcdn.kan.org.il/media/saenncnu/רונן-אנגל.jpg" class="img-fluid" alt="רונן אנגל"/>
             </div>
             <div class="card-body">
@@ -669,7 +619,7 @@
                 <div class="card-text">
                     נרצח בשבי חמאס. נחטף מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan-news/local/634350/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/local/634350/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -687,7 +637,7 @@
                 <div class="card-text">
                     נרצח בשבי חמאס. נחטף מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan-news/local/634350/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/local/634350/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -705,7 +655,7 @@
                 <div class="card-text">
                     נרצח בשבי חמאס. נחטף מהמסיבה ברעים
                 </div>
-                    <a href="/content/kan-news/defense/634574/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/634574/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -723,24 +673,7 @@
                 <div class="card-text">
                     נרצח בשבי חמאס. נחטף מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan-news/local/634350/" class="card-link" target="_blank">לכתבה &gt;</a>
-            </div>
-        </div>
-    </div>
-    <div class="memorial-list-item">
-        <div class="card">
-            <div class="card-img">
-                <img src="https://cfcdn.kan.org.il/media/rmwlaqme/יהודית-וייס.jpg" class="img-fluid" alt="יהודית וייס"/>
-            </div>
-            <div class="card-body">
-                <div class="card-title">
-                    <span class="text-xs"></span>
-                    יהודית וייס
-                    <span class="text-sm">65, בארי</span>
-                </div>
-                <div class="card-text">
-                    נרצחה בשבי חמאס. נחטפה מקיבוץ בארי
-                </div>
+                    <a href="/content/kan-news/local/634350/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -758,7 +691,7 @@
                 <div class="card-text">
                     שוחרר אחרי 54 ימים בשבי. נחטף מקיבוץ בארי
                 </div>
-                    <a href="/content/kan-news/defense/629840/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/629840/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -776,7 +709,7 @@
                 <div class="card-text">
                     נחטף מהמסיבה ברעים. צה"ל איתר את גופתו בעזה
                 </div>
-                    <a href="/content/kan-news/defense/631583/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/631583/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -794,7 +727,7 @@
                 <div class="card-text">
                     שוחרר אחרי 54 ימים בשבי. נחטף מהמסיבה ברעים
                 </div>
-                    <a href="/content/kan-news/defense/629873/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/629873/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -812,7 +745,7 @@
                 <div class="card-text">
                     שוחררה אחרי 55 ימים בשבי. נחטפה מקיבוץ כפר עזה
                 </div>
-                    <a href="/content/kan-news/defense/631676/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/631676/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -830,7 +763,7 @@
                 <div class="card-text">
                     שוחררה אחרי 55 ימים בשבי. נחטפה מהמסיבה ברעים
                 </div>
-                    <a href="/content/kan-news/defense/631508/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/631508/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -848,7 +781,7 @@
                 <div class="card-text">
                     נחטף מקיבוץ ניר עוז. גופתו מוחזקת בידי חמאס
                 </div>
-                    <a href="/content/kan-news/defense/633277/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/633277/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -866,7 +799,7 @@
                 <div class="card-text">
                     שוחררה אחרי 55 ימים בשבי. נחטפה מקיבוץ חולית
                 </div>
-                    <a href="/content/kan-news/defense/631575/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/631575/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -884,11 +817,10 @@
                 <div class="card-text">
                     שוחרר אחרי 55 ימים בשבי. נחטף מקיבוץ חולית
                 </div>
-                    <a href="/content/kan-news/defense/631575/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/631575/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
-            
     <div class="memorial-list-item">
         <div class="card">
             <div class="card-img">
@@ -903,7 +835,7 @@
                 <div class="card-text">
                     שוחררה מהשבי אחרי 55 יום. נחטפה מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan-news/defense/631587/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/631587/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -921,7 +853,7 @@
                 <div class="card-text">
                     שוחררה אחרי 55 ימים בשבי. נחטפה מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan-news/defense/631666/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/631666/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -939,7 +871,95 @@
                 <div class="card-text">
                     שוחררה אחרי 55 ימים בשבי. נחטפה מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan-news/defense/631604/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/631604/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
+            </div>
+        </div>
+    </div>
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/prdawxur/וואטצרה-סריון.jpg" class="img-fluid" alt="וואטצ'רה סריון"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs"></span>
+                    וואטצ'רה סריון
+                    <span class="text-sm">32, תאילנד</span>
+                </div>
+                <div class="card-text">
+                    נחטף מקיבוץ ניר עוז
+                </div>
+            </div>
+        </div>
+    </div>
+            
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/klbbedaj/גיא-גלבוע-דלאל.jpg" class="img-fluid" alt="גיא גלבוע דלאל"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs"></span>
+                    גיא גלבוע דלאל
+                    <span class="text-sm">22, אלפי מנשה</span>
+                </div>
+                <div class="card-text">
+                    נחטף מהמסיבה ברעים
+                </div>
+                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599462/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
+            </div>
+        </div>
+    </div>
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/n0vj2lhu/נטפונג-פינטה.jpg" class="img-fluid" alt="נטפונג פינטה"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs"></span>
+                    נטפונג פינטה
+                    <span class="text-sm">35, תאילנד</span>
+                </div>
+                <div class="card-text">
+                    קיבוץ ניר עוז
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/prdawxur/וואטצרה-סריון.jpg" class="img-fluid" alt="וואטצ'רה סריון"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs"></span>
+                    וואטצ'רה סריון
+                    <span class="text-sm">32, תאילנד</span>
+                </div>
+                <div class="card-text">
+                    נחטף מקיבוץ ניר עוז
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/toaist0r/טמפלייט-תמונות-חטופים-recovered.png" class="img-fluid" alt="צ'קרפאן סיקנה"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs"></span>
+                    צ'קרפאן סיקנה
+                    <span class="text-sm">תאילנד</span>
+                </div>
+                <div class="card-text">
+                    שוחרר אחרי 54 ימים בשבי
+                </div>
+                    <a href="/content/kan-news/defense/631674/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -957,7 +977,7 @@
                 <div class="card-text">
                     שוחררה אחרי 54 ימים בשבי. נחטפה מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan-news/defense/630567/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/630567/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -975,7 +995,7 @@
                 <div class="card-text">
                     שוחררה אחרי 54 ימים בשבי. נחטפה מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan-news/defense/630567/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/630567/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -993,7 +1013,25 @@
                 <div class="card-text">
                     שוחרר אחרי 54 ימים בשבי
                 </div>
-                    <a href="/content/kan-news/defense/631674/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/631674/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
+            </div>
+        </div>
+    </div>
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/nssnd00q/312.jpg" class="img-fluid" alt="קונג סאאלאו"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs"></span>
+                    קונג סאאלאו
+                    <span class="text-sm">תאילנד</span>
+                </div>
+                <div class="card-text">
+                    שוחרר אחרי 54 ימים בשבי
+                </div>
+                    <a href="/content/kan-news/defense/631674/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1011,7 +1049,7 @@
                 <div class="card-text">
                     שוחררה אחרי 54 ימים בשבי. נחטפה מקיבוץ בארי
                 </div>
-                    <a href="/content/kan-news/defense/629785/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/629785/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1029,7 +1067,7 @@
                 <div class="card-text">
                     שוחררה אחרי 54 ימים בשבי. נחטפה מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan-news/defense/629712/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/629712/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1047,7 +1085,7 @@
                 <div class="card-text">
                     שוחררה אחרי 54 ימים בשבי. נחטפה מקיבוץ בארי
                 </div>
-                    <a href="/content/kan-news/defense/629563/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/629563/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1065,7 +1103,7 @@
                 <div class="card-text">
                     שוחררה אחרי 54 ימים בשבי. נחטפה מהמסיבה ברעים
                 </div>
-                    <a href="/content/kan-news/defense/629795/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/629795/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1083,7 +1121,7 @@
                 <div class="card-text">
                     שוחרר אחרי 54 ימים בשבי. נחטף מקיבוץ בארי
                 </div>
-                    <a href="/content/kan-news/defense/626545/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/626545/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1101,7 +1139,7 @@
                 <div class="card-text">
                     שוחררה אחרי 54 ימים בשבי. נחטפה מקיבוץ בארי
                 </div>
-                    <a href="/content/kan-news/defense/629700/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/629700/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1119,10 +1157,11 @@
                 <div class="card-text">
                     שוחררה אחרי 54 ימים בשבי. נחטפה מקיבוץ בארי
                 </div>
-                    <a href="/content/kan-news/defense/629648/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/629648/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
+
     <div class="memorial-list-item">
         <div class="card">
             <div class="card-img">
@@ -1157,7 +1196,6 @@
             </div>
         </div>
     </div>
-
     <div class="memorial-list-item">
         <div class="card">
             <div class="card-img">
@@ -1172,7 +1210,7 @@
                 <div class="card-text">
                     שוחררה אחרי 53 ימים בשבי
                 </div>
-                    <a href="/content/kan-news/defense/627801/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/627801/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1190,7 +1228,7 @@
                 <div class="card-text">
                     שוחררה אחרי 53 ימים בשבי
                 </div>
-                    <a href="/content/kan-news/defense/627801/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/627801/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1208,7 +1246,7 @@
                 <div class="card-text">
                     שוחררה אחרי 53 ימים בשבי
                 </div>
-                    <a href="/content/kan-news/defense/628237/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/628237/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1226,7 +1264,7 @@
                 <div class="card-text">
                     שוחררה אחרי 53 ימים בשבי
                 </div>
-                    <a href="/content/kan-news/defense/628111/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/628111/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1244,7 +1282,7 @@
                 <div class="card-text">
                     שוחררה אחרי 53 ימים בשבי
                 </div>
-                    <a href="/content/kan-news/defense/627923/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/627923/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1262,7 +1300,7 @@
                 <div class="card-text">
                     שוחררה אחרי 53 ימים בשבי
                 </div>
-                    <a href="/content/kan-news/defense/627925/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/627925/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1280,7 +1318,7 @@
                 <div class="card-text">
                     שוחררה אחרי 53 ימים בשבי
                 </div>
-                    <a href="/content/kan-news/defense/627801/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/627801/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1298,7 +1336,7 @@
                 <div class="card-text">
                     שוחררה אחרי 53 ימים בשבי
                 </div>
-                    <a href="/content/kan-news/defense/627959/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/627959/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1316,7 +1354,7 @@
                 <div class="card-text">
                     שוחררה אחרי 53 ימים בשבי
                 </div>
-                    <a href="/content/kan-news/defense/628223/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/628223/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1334,7 +1372,7 @@
                 <div class="card-text">
                     שוחררה אחרי 53 ימים בשבי. נחטפה מקיבוץ נירים
                 </div>
-                    <a href="/content/kan-news/defense/628254/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/628254/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1369,25 +1407,7 @@
                 <div class="card-text">
                     
                 </div>
-                    <a href="/content/kan/kan-11/p-12043/s7/590317/" class="card-link" target="_blank">לכתבה &gt;</a>
-            </div>
-        </div>
-    </div>
-    <div class="memorial-list-item">
-        <div class="card">
-            <div class="card-img">
-                <img src="https://cfcdn.kan.org.il/media/23jbzvlj/nik.jpg" class="img-fluid" alt="ניק בייזר"/>
-            </div>
-            <div class="card-body">
-                <div class="card-title">
-                    <span class="text-xs"></span>
-                    ניק בייזר
-                    <span class="text-sm">19, באר שבע</span>
-                </div>
-                <div class="card-text">
-                    
-                </div>
-                    <a href="https://www.kan.org.il/content/kan/kan-11/p-12043/s7/590317/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan/kan-11/p-12043/s7/590317/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1408,6 +1428,7 @@
             </div>
         </div>
     </div>
+
     <div class="memorial-list-item">
         <div class="card">
             <div class="card-img">
@@ -1425,7 +1446,6 @@
             </div>
         </div>
     </div>
-
     <div class="memorial-list-item">
         <div class="card">
             <div class="card-img">
@@ -1440,25 +1460,7 @@
                 <div class="card-text">
                     
                 </div>
-                    <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/575129/" class="card-link" target="_blank">לכתבה &gt;</a>
-            </div>
-        </div>
-    </div>
-    <div class="memorial-list-item">
-        <div class="card">
-            <div class="card-img">
-                <img src="https://cfcdn.kan.org.il/media/wy3jdkqy/רון-שרמן-פייסבוק.jpg" class="img-fluid" alt="רון שרמן"/>
-            </div>
-            <div class="card-body">
-                <div class="card-title">
-                    <span class="text-xs"></span>
-                    רון שרמן
-                    <span class="text-sm">19, להבים</span>
-                </div>
-                <div class="card-text">
-                    
-                </div>
-                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599433/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/575129/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1476,7 +1478,7 @@
                 <div class="card-text">
                     
                 </div>
-                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599406/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599406/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1511,7 +1513,7 @@
                 <div class="card-text">
                     נהרג ב-7.10 וגופתו נחטפה לעזה
                 </div>
-                    <a href="/content/kan-news/defense/620175/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/620175/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1529,7 +1531,7 @@
                 <div class="card-text">
                     נהרג ב-7.10 וגופתו נחטפה לעזה
                 </div>
-                    <a href="/content/kan-news/defense/620175/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/620175/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1547,7 +1549,7 @@
                 <div class="card-text">
                     נהרג ב-7.10 וגופתו נחטפה לעזה
                 </div>
-                    <a href="/content/kan-news/defense/620175/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/620175/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1582,7 +1584,7 @@
                 <div class="card-text">
                     שוחררה אחרי 52 ימים בשבי
                 </div>
-                    <a href="/content/kan-news/defense/626527/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/626527/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1600,7 +1602,7 @@
                 <div class="card-text">
                     שוחרר אחרי 52 ימים בשבי
                 </div>
-                    <a href="/content/kan-news/defense/626654/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/626654/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1618,7 +1620,7 @@
                 <div class="card-text">
                     שוחרר אחרי 52 ימים בשבי
                 </div>
-                    <a href="/content/kan-news/defense/626654/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/626654/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1636,7 +1638,7 @@
                 <div class="card-text">
                     שוחרר אחרי 52 ימים בשבי
                 </div>
-                    <a href="https://www.kan.org.il/content/kan-news/local/583488/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan-news/local/583488/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1654,7 +1656,7 @@
                 <div class="card-text">
                     שוחרר אחרי 52 ימים בשבי
                 </div>
-                    <a href="/content/kan-news/defense/626855/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/626855/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1672,7 +1674,7 @@
                 <div class="card-text">
                     שוחררה אחרי 52 ימים בשבי
                 </div>
-                    <a href="/content/kan-news/defense/626654/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/626654/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1690,7 +1692,7 @@
                 <div class="card-text">
                     שוחררה אחרי 52 ימים בשבי
                 </div>
-                    <a href="/content/kan-news/defense/626522/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/626522/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1709,7 +1711,7 @@
                 <div class="card-text">
                     שוחררה אחרי 52 ימים בשבי
                 </div>
-                    <a href="/content/kan-news/defense/626522/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/626522/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1727,7 +1729,7 @@
                 <div class="card-text">
                     שוחררה אחרי 52 ימים בשבי
                 </div>
-                    <a href="/content/kan-news/defense/626522/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/626522/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1745,7 +1747,7 @@
                 <div class="card-text">
                     שוחררה אחרי 52 ימים בשבי
                 </div>
-                    <a href="/content/kan-news/defense/626527/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/626527/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1763,7 +1765,7 @@
                 <div class="card-text">
                     שוחררה אחרי 52 ימים בשבי
                 </div>
-                    <a href="/content/kan-news/defense/626527/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/626527/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1798,7 +1800,7 @@
                 <div class="card-text">
                     שוחררה אחרי 49 ימים בשבי
                 </div>
-                    <a href="/content/kan/kan-actual/p-11894/news-item/623839/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan/kan-actual/p-11894/news-item/623839/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1867,7 +1869,7 @@
                 <div class="card-text">
                     שוחרר אחרי 51 יום בשבי. נחטף מקיבוץ כפר עזה 
                 </div>
-                    <a href="/content/kan-news/defense/624383/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/624383/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1885,7 +1887,7 @@
                 <div class="card-text">
                     שוחרר אחרי 51 יום בשבי. נחטף מקיבוץ כפר עזה 
                 </div>
-                    <a href="/content/kan-news/defense/624383/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/624383/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1903,7 +1905,7 @@
                 <div class="card-text">
                     שוחררה אחרי 51 יום בשבי. נחטפה מקיבוץ כפר עזה 
                 </div>
-                    <a href="/content/kan-news/defense/624383/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/624383/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1921,7 +1923,7 @@
                 <div class="card-text">
                     שוחררה אחרי 51 יום בשבי. נחטפה מקיבוץ כפר עזה 
                 </div>
-                    <a href="/content/kan-news/defense/624383/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/624383/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1939,7 +1941,7 @@
                 <div class="card-text">
                     שוחררה אחרי 51 יום בשבי. נחטפה מקיבוץ כפר עזה
                 </div>
-                    <a href="/content/kan-news/defense/624446/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/624446/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1957,7 +1959,7 @@
                 <div class="card-text">
                     שוחררה אחרי 51 יום בשבי. נחטפה מקיבוץ נחל עוז 
                 </div>
-                    <a href="/content/kan-news/defense/624506/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/624506/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1976,7 +1978,7 @@
                 <div class="card-text">
                     שוחרר אחרי 51 יום בשבי. נחטף מקיבוץ כפר עזה 
                 </div>
-                    <a href="/content/kan-news/defense/624429/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/624429/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -1994,7 +1996,7 @@
                 <div class="card-text">
                     שוחררה אחרי 51 יום בשבי. נחטפה מקיבוץ כפר עזה 
                 </div>
-                    <a href="/content/kan-news/defense/624429/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/624429/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2012,7 +2014,7 @@
                 <div class="card-text">
                     שוחררה אחרי 51 יום בשבי. נחטפה מקיבוץ כפר עזה 
                 </div>
-                    <a href="/content/kan-news/defense/624429/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/624429/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2030,7 +2032,7 @@
                 <div class="card-text">
                     שוחרר אחרי 51 יום בשבי. נחטף מקיבוץ כפר עזה 
                 </div>
-                    <a href="/content/kan-news/defense/624429/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/624429/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2048,7 +2050,7 @@
                 <div class="card-text">
                     שוחררה אחרי 51 יום בשבי. נחטפה מקיבוץ כפר עזה 
                 </div>
-                    <a href="/content/kan-news/defense/624584/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/624584/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2066,7 +2068,7 @@
                 <div class="card-text">
                     שוחררה אחרי 51 יום בשבי. נחטפה מקיבוץ נחל עוז 
                 </div>
-                    <a href="/content/kan-news/defense/624597/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/624597/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2084,7 +2086,7 @@
                 <div class="card-text">
                     שוחררה אחרי 51 יום בשבי. נחטפה מקיבוץ נחל עוז 
                 </div>
-                    <a href="/content/kan-news/defense/624597/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/624597/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2187,7 +2189,7 @@
                 <div class="card-text">
                     שוחררה אחרי 50 ימים בשבי. נחטפה מקיבוץ בארי 
                 </div>
-                    <a href="https://www.kan.org.il/content/kan-news/defense/622614/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan-news/defense/622614/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2205,7 +2207,7 @@
                 <div class="card-text">
                     שוחררה אחרי 50 ימים בשבי. נחטפה מקיבוץ בארי 
                 </div>
-                    <a href="https://www.kan.org.il/content/kan-news/defense/622623/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan-news/defense/622623/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2223,7 +2225,7 @@
                 <div class="card-text">
                     שוחררה אחרי 50 ימים בשבי. נחטפה מקיבוץ בארי 
                 </div>
-                    <a href="https://www.kan.org.il/content/kan-news/defense/622623/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan-news/defense/622623/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2242,7 +2244,7 @@
                 <div class="card-text">
                     שוחרר אחרי 50 ימים בשבי. נחטף מקיבוץ בארי 
                 </div>
-                    <a href="https://www.kan.org.il/content/kan-news/defense/622622/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan-news/defense/622622/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2260,7 +2262,7 @@
                 <div class="card-text">
                     שוחררה אחרי 50 ימים בשבי. נחטפה מקיבוץ בארי
                 </div>
-                    <a href="https://www.kan.org.il/content/kan-news/defense/622622/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan-news/defense/622622/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2278,7 +2280,7 @@
                 <div class="card-text">
                     שוחררה אחרי 50 ימים בשבי. נחטפה מהמסיבה ברעים 
                 </div>
-                    <a href="https://www.kan.org.il/content/kan-news/defense/622616/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan-news/defense/622616/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2296,7 +2298,7 @@
                 <div class="card-text">
                     שוחררה אחרי 50 ימים בשבי. נחטפה מקיבוץ בארי 
                 </div>
-                    <a href="https://www.kan.org.il/content/kan-news/defense/622625/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan-news/defense/622625/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2314,7 +2316,7 @@
                 <div class="card-text">
                     שוחררה אחרי 50 ימים בשבי. נחטפה מקיבוץ בארי 
                 </div>
-                    <a href="https://www.kan.org.il/content/kan-news/defense/622625/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan-news/defense/622625/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2332,7 +2334,7 @@
                 <div class="card-text">
                     שוחררה אחרי 50 ימים בשבי. נחטפה מקיבוץ בארי 
                 </div>
-                    <a href="https://www.kan.org.il/content/kan-news/defense/622628/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan-news/defense/622628/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2350,7 +2352,7 @@
                 <div class="card-text">
                     שוחררה אחרי 50 ימים בשבי. נחטפה מקיבוץ בארי 
                 </div>
-                    <a href="https://www.kan.org.il/content/kan-news/defense/622628/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan-news/defense/622628/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2368,7 +2370,7 @@
                 <div class="card-text">
                     שוחררה אחרי 50 ימים בשבי. נחטפה מקיבוץ בארי
                 </div>
-                    <a href="https://www.kan.org.il/content/kan-news/defense/622628/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan-news/defense/622628/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2386,7 +2388,7 @@
                 <div class="card-text">
                     שוחרר אחרי 50 ימים בשבי. נחטף מקיבוץ בארי 
                 </div>
-                    <a href="https://www.kan.org.il/content/kan-news/defense/622628/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan-news/defense/622628/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2404,7 +2406,7 @@
                 <div class="card-text">
                     שוחררה אחרי 50 ימים בשבי. נחטפה מקיבוץ בארי 
                 </div>
-                    <a href="https://www.kan.org.il/content/kan-news/defense/622642/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan-news/defense/622642/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2422,7 +2424,7 @@
                 <div class="card-text">
                     שוחרר מהשבי אחרי 49 יום
                 </div>
-                    <a href="/content/kan-news/defense/622783/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/622783/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2440,7 +2442,7 @@
                 <div class="card-text">
                     שוחרר אחרי 49 ימים בשבי 
                 </div>
-                    <a href="/content/kan-news/defense/622783/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/622783/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2458,7 +2460,7 @@
                 <div class="card-text">
                     שוחרר אחרי 49 ימים בשבי 
                 </div>
-                    <a href="/content/kan-news/defense/622783/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/622783/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2476,7 +2478,7 @@
                 <div class="card-text">
                     שוחרר אחרי 49 ימים בשבי 
                 </div>
-                    <a href="/content/kan/kan-actual/p-11894/news-item/623839/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan/kan-actual/p-11894/news-item/623839/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2494,7 +2496,7 @@
                 <div class="card-text">
                     שוחרר אחרי 49 ימים בשבי. נחטף מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan/kan-actual/p-11894/news-item/623839/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan/kan-actual/p-11894/news-item/623839/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2513,7 +2515,7 @@
                 <div class="card-text">
                     שוחרר מהשבי אחרי 49 יום
                 </div>
-                    <a href="/content/kan/kan-actual/p-11894/news-item/623839/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan/kan-actual/p-11894/news-item/623839/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2531,7 +2533,7 @@
                 <div class="card-text">
                     שוחררה אחרי 49 ימים בשבי. נחטפה מקיבוץ נירים
                 </div>
-                    <a href="/content/kan-news/defense/621764/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/621764/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2549,7 +2551,7 @@
                 <div class="card-text">
                     שוחררה אחרי 49 ימים בשבי. נחטפה מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan-news/defense/621536/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/621536/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2567,7 +2569,7 @@
                 <div class="card-text">
                     שוחררה אחרי 49 ימים בשבי. נחטפה מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan-news/defense/621536/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/621536/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2585,7 +2587,7 @@
                 <div class="card-text">
                     שוחררה אחרי 49 ימים בשבי. נחטפה מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan-news/defense/621498/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/621498/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2603,7 +2605,7 @@
                 <div class="card-text">
                     שוחררה אחרי 49 ימים בשבי. נחטפה מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan-news/defense/621498/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/621498/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2621,7 +2623,7 @@
                 <div class="card-text">
                     שוחרר אחרי 49 ימים בשבי. נחטף מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan-news/defense/621498/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/621498/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2639,7 +2641,7 @@
                 <div class="card-text">
                     שוחררה אחרי 49 ימים בשבי. נחטפה מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan-news/defense/621709/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/621709/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2657,7 +2659,7 @@
                 <div class="card-text">
                     שוחררה אחרי 49 ימים בשבי. נחטפה מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan-news/defense/621709/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/621709/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2675,7 +2677,7 @@
                 <div class="card-text">
                     שוחררה אחרי 49 ימים בשבי. נחטפה מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan-news/defense/621218/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/621218/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2693,7 +2695,7 @@
                 <div class="card-text">
                     שוחררה אחרי 49 ימים בשבי. נחטפה מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan-news/defense/621761/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/621761/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2711,7 +2713,7 @@
                 <div class="card-text">
                     שוחררה אחרי 49 ימים בשבי. נחטפה מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan-news/defense/621218/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/621218/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2729,7 +2731,7 @@
                 <div class="card-text">
                     שוחררה אחרי 49 ימים בשבי. נחטפה מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan-news/defense/621218/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/621218/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2747,7 +2749,7 @@
                 <div class="card-text">
                     שוחררה אחרי 49 ימים בשבי. נחטפה מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan-news/defense/621218/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/defense/621218/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2840,6 +2842,23 @@
     <div class="memorial-list-item">
         <div class="card">
             <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/rmwlaqme/יהודית-וייס.jpg" class="img-fluid" alt="יהודית וייס"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs"></span>
+                    יהודית וייס
+                    <span class="text-sm">65, בארי</span>
+                </div>
+                <div class="card-text">
+                    נחטפה מקיבוץ בארי ונרצחה. כוחות צה"ל החזירו את גופתה
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
                 <img src="https://cfcdn.kan.org.il/media/r3bh54z5/נמרוד-כהן.jpg" class="img-fluid" alt="נמרוד כהן"/>
             </div>
             <div class="card-body">
@@ -2850,23 +2869,6 @@
                 </div>
                 <div class="card-text">
                     
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="memorial-list-item">
-        <div class="card">
-            <div class="card-img">
-                <img src="https://cfcdn.kan.org.il/media/wxejtwxn/אליה-טולדנו.jpg" class="img-fluid" alt="אליה טולדנו"/>
-            </div>
-            <div class="card-body">
-                <div class="card-title">
-                    <span class="text-xs"></span>
-                    אליה טולדנו
-                    <span class="text-sm">27, תל אביב</span>
-                </div>
-                <div class="card-text">
-                    נחטף מהמסיבה ברעים
                 </div>
             </div>
         </div>
@@ -2942,6 +2944,42 @@
     <div class="memorial-list-item">
         <div class="card">
             <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/sn5fkwvm/יהודית-רענן.jpg" class="img-fluid" alt="יהודית רענן"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs"></span>
+                    יהודית רענן
+                    <span class="text-sm">59, שיקגו</span>
+                </div>
+                <div class="card-text">
+                    שוחררה אחרי 14 ימים בשבי. נחטפה מקיבוץ נחל עוז
+                </div>
+                    <a href="/content/kan/kan-actual/p-11894/news-item/577589/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
+            </div>
+        </div>
+    </div>
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/qnsdnoo5/נטלי-רענן.jpg" class="img-fluid" alt="נטלי רענן"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs"></span>
+                    נטלי רענן
+                    <span class="text-sm">17, שיקגו</span>
+                </div>
+                <div class="card-text">
+                    שוחררה אחרי 14 ימים בשבי. נחטפה מקיבוץ נחל עוז
+                </div>
+                    <a href="/content/kan/kan-actual/p-11894/news-item/577589/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
+            </div>
+        </div>
+    </div>
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
                 <img src="https://cfcdn.kan.org.il/media/z1jna5gf/זיו-ברמן.jpg" class="img-fluid" alt="זיו ברמן"/>
             </div>
             <div class="card-body">
@@ -2953,7 +2991,7 @@
                 <div class="card-text">
                     נחטף מקיבוץ כפר עזה
                 </div>
-                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599405/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599405/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2971,7 +3009,7 @@
                 <div class="card-text">
                     נחטף מקיבוץ כפר עזה
                 </div>
-                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599405/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599405/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -2989,10 +3027,11 @@
                 <div class="card-text">
                     נחטף מהמסיבה ברעים
                 </div>
-                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599353/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599353/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
+
     <div class="memorial-list-item">
         <div class="card">
             <div class="card-img">
@@ -3007,7 +3046,7 @@
                 <div class="card-text">
                     נחטף מהמסיבה ברעים
                 </div>
-                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599355/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599355/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -3025,11 +3064,10 @@
                 <div class="card-text">
                     נחטף מקיבוץ נירים
                 </div>
-                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599356/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599356/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
-
     <div class="memorial-list-item">
         <div class="card">
             <div class="card-img">
@@ -3044,7 +3082,7 @@
                 <div class="card-text">
                     נחטף מקיבוץ ניר עוז
                 </div>
-                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599517/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599517/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -3096,7 +3134,7 @@
                 <div class="card-text">
                     נחטף מהמסיבה ברעים
                 </div>
-                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599518/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599518/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -3114,7 +3152,7 @@
                 <div class="card-text">
                     נחטף מהמסיבה ברעים
                 </div>
-                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599473/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599473/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -3149,7 +3187,7 @@
                 <div class="card-text">
                     נחטף מקיבוץ בארי
                 </div>
-                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599516/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599516/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -3167,7 +3205,7 @@
                 <div class="card-text">
                     נחטף מהמסיבה ברעים
                 </div>
-                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599495/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599495/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -3185,7 +3223,7 @@
                 <div class="card-text">
                     נחטף מקיבוץ ניר עוז
                 </div>
-                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599442/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599442/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -3203,7 +3241,7 @@
                 <div class="card-text">
                     נחטף מקיבוץ ניר עוז
                 </div>
-                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599525/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599525/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -3221,7 +3259,7 @@
                 <div class="card-text">
                     נחטף מקיבוץ בארי
                 </div>
-                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599526/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599526/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -3239,7 +3277,7 @@
                 <div class="card-text">
                     נחטף מהמסיבה ברעים
                 </div>
-                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599528/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://kan.org.il/content/kan/special-sections/p-571459/599528/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -3260,6 +3298,7 @@
             </div>
         </div>
     </div>
+
     <div class="memorial-list-item">
         <div class="card">
             <div class="card-img">
@@ -3294,7 +3333,6 @@
             </div>
         </div>
     </div>
-
     <div class="memorial-list-item">
         <div class="card">
             <div class="card-img">
@@ -3309,6 +3347,24 @@
                 <div class="card-text">
                     נחטף מהמסיבה ברעים
                 </div>
+            </div>
+        </div>
+    </div>
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/y4ehcy4z/אורי-מגידיש.jpg" class="img-fluid" alt="אורי מגידיש"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs"></span>
+                    אורי מגידיש
+                    <span class="text-sm">18, קרית גת</span>
+                </div>
+                <div class="card-text">
+                    חולצה מהשבי אחרי 24 ימים. נחטפה ממוצב נחל עוז
+                </div>
+                    <a href="/content/kan-news/defense/589096/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -3360,7 +3416,7 @@
                 <div class="card-text">
                     נחטף מקיבוץ ניר עוז
                 </div>
-                    <a href="https://www.kan.org.il/content/kan/kan-actual/p-11894/news-item/568687/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan/kan-actual/p-11894/news-item/568687/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -3378,7 +3434,43 @@
                 <div class="card-text">
                     נחטף מקיבוץ ניר עוז
                 </div>
-                    <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573764/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573764/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
+            </div>
+        </div>
+    </div>
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/bo4llyl3/יוכבד-ליפשיץ.jpg" class="img-fluid" alt="יוכבד ליפשיץ"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs"></span>
+                    יוכבד ליפשיץ
+                    <span class="text-sm">85, ניר עוז</span>
+                </div>
+                <div class="card-text">
+                    שוחררה אחרי 17 ימים בשבי. נחטפה מקיבוץ ניר עוז
+                </div>
+                    <a href="/content/kan/kan-actual/p-11894/news-item/581442/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
+            </div>
+        </div>
+    </div>
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/g04d4cnh/שני-לוק.jpg" class="img-fluid" alt="שני לוק"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs"></span>
+                    שני לוק
+                    <span class="text-sm">23, שריגים-ליאון</span>
+                </div>
+                <div class="card-text">
+                    נרצחה במסיבה ברעים. גופתה נחטפה לעזה
+                </div>
+                    <a href="/content/kan/special-sections/p-571459/573753/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -3467,6 +3559,7 @@
             </div>
         </div>
     </div>
+
     <div class="memorial-list-item">
         <div class="card">
             <div class="card-img">
@@ -3498,7 +3591,7 @@
                 <div class="card-text">
                     נחטף מהמסיבה ברעים
                 </div>
-                    <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573755/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573755/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -3533,7 +3626,7 @@
                 <div class="card-text">
                     נחטף מהמסיבה ברעים
                 </div>
-                    <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573745/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573745/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -3551,11 +3644,10 @@
                 <div class="card-text">
                     נחטף מקיבוץ נחל עוז
                 </div>
-                    <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573758/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573758/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
-
     <div class="memorial-list-item">
         <div class="card">
             <div class="card-img">
@@ -3570,7 +3662,7 @@
                 <div class="card-text">
                     נחטף מהמסיבה ברעים
                 </div>
-                    <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573754/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573754/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -3673,25 +3765,7 @@
                 <div class="card-text">
                     נחטף מקיבוץ ניר יצחק
                 </div>
-                    <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573749/" class="card-link" target="_blank">לכתבה &gt;</a>
-            </div>
-        </div>
-    </div>
-    <div class="memorial-list-item">
-        <div class="card">
-            <div class="card-img">
-                <img src="https://cfcdn.kan.org.il/media/nnkcyc1t/ענבר-הימן-פייסבוק.jpg" class="img-fluid" alt="ענבר הימן"/>
-            </div>
-            <div class="card-body">
-                <div class="card-title">
-                    <span class="text-xs"></span>
-                    ענבר הימן
-                    <span class="text-sm">27, חיפה</span>
-                </div>
-                <div class="card-text">
-                    נחטפה מהמסיבה ברעים
-                </div>
-                    <a href="/content/kan/special-sections/p-571459/573746/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573749/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -3709,7 +3783,7 @@
                 <div class="card-text">
                     נחטף מקיבוץ ניר יצחק
                 </div>
-                    <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573749/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573749/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -3727,7 +3801,7 @@
                 <div class="card-text">
                     נחטפה מהמסיבה ברעים
                 </div>
-                    <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573751/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573751/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -3745,10 +3819,11 @@
                 <div class="card-text">
                     נחטף מקיבוץ ניר עוז
                 </div>
-                    <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573760/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan/special-sections/p-571459/573760/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
+
     <div class="memorial-list-item">
         <div class="card">
             <div class="card-img">
@@ -3780,7 +3855,7 @@
                 <div class="card-text">
                     נחטף מקיבוץ בארי
                 </div>
-                    <a href="/content/kan/kan-actual/p-11894/news-item/581493/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan/kan-actual/p-11894/news-item/581493/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -3798,7 +3873,7 @@
                 <div class="card-text">
                     נחטף מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan-news/local/580269/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan-news/local/580269/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -3819,7 +3894,6 @@
             </div>
         </div>
     </div>
-
     <div class="memorial-list-item">
         <div class="card">
             <div class="card-img">
@@ -3833,57 +3907,6 @@
                 </div>
                 <div class="card-text">
                     נחטפה מקיבוץ ניר עוז
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="memorial-list-item">
-        <div class="card">
-            <div class="card-img">
-                <img src="https://cfcdn.kan.org.il/media/4iupxan1/אלון-לולו-שמריז.jpg" class="img-fluid" alt="אלון לולו שמריז"/>
-            </div>
-            <div class="card-body">
-                <div class="card-title">
-                    <span class="text-xs"></span>
-                    אלון לולו שמריז
-                    <span class="text-sm">26, כפר עזה</span>
-                </div>
-                <div class="card-text">
-                    נחטף מקיבוץ כפר עזה
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="memorial-list-item">
-        <div class="card">
-            <div class="card-img">
-                <img src="https://cfcdn.kan.org.il/media/2ldfddes/גושוע-לואיטו.jpg" class="img-fluid" alt="ג'ושוע לואיטו מולל"/>
-            </div>
-            <div class="card-body">
-                <div class="card-title">
-                    <span class="text-xs"></span>
-                    ג'ושוע לואיטו מולל
-                    <span class="text-sm">21, אזרח טנזניה</span>
-                </div>
-                <div class="card-text">
-                    נחטף מקיבוץ נחל עוז
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="memorial-list-item">
-        <div class="card">
-            <div class="card-img">
-                <img src="https://cfcdn.kan.org.il/media/2ylncrow/סאמר-פואד-אל-טלאלקה.jpg" class="img-fluid" alt="סאמר פואד אל-טלאלקה"/>
-            </div>
-            <div class="card-body">
-                <div class="card-title">
-                    <span class="text-xs"></span>
-                    סאמר פואד אל-טלאלקה
-                    <span class="text-sm">24, חורה</span>
-                </div>
-                <div class="card-text">
-                    נחטף מקיבוץ ניר עוז
                 </div>
             </div>
         </div>
@@ -3919,7 +3942,7 @@
                 <div class="card-text">
                     נחטף מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan/kan-actual/p-11894/news-item/572854/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan/kan-actual/p-11894/news-item/572854/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -3937,7 +3960,7 @@
                 <div class="card-text">
                     נחטף מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan/kan-actual/p-11894/news-item/572854/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan/kan-actual/p-11894/news-item/572854/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -3955,7 +3978,7 @@
                 <div class="card-text">
                     נחטפה מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan/kan-actual/p-11894/news-item/572854/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan/kan-actual/p-11894/news-item/572854/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -3973,7 +3996,7 @@
                 <div class="card-text">
                     נחטף מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan/kan-actual/p-11894/news-item/580186/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan/kan-actual/p-11894/news-item/580186/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -3991,7 +4014,7 @@
                 <div class="card-text">
                     נחטף מקיבוץ ניר עוז
                 </div>
-                    <a href="/content/kan/special-sections/p-571459/580167/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="/content/kan/special-sections/p-571459/580167/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -4063,6 +4086,7 @@
             </div>
         </div>
     </div>
+
     <div class="memorial-list-item">
         <div class="card">
             <div class="card-img">
@@ -4077,11 +4101,10 @@
                 <div class="card-text">
                     נחטף מקיבוץ ניר עוז
                 </div>
-                    <a href="https://www.kan.org.il/content/kan/podcasts/p-569737/583124/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan/podcasts/p-569737/583124/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
-
     <div class="memorial-list-item">
         <div class="card">
             <div class="card-img">
@@ -4096,7 +4119,7 @@
                 <div class="card-text">
                     נחטפה מהמסיבה ברעים
                 </div>
-                    <a href="https://www.kan.org.il/content/kan-news/opinions/589039/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan-news/opinions/589039/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -4114,7 +4137,7 @@
                 <div class="card-text">
                     נחטף מקיבוץ ניר עוז
                 </div>
-                    <a href="https://www.kan.org.il/content/kan-news/local/585082/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan-news/local/585082/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -4132,7 +4155,7 @@
                 <div class="card-text">
                     נחטף מקיבוץ ניר עוז
                 </div>
-                    <a href="https://www.kan.org.il/content/kan/podcasts/p-579653/191023/587974/" class="card-link" target="_blank">לכתבה &gt;</a>
+                    <a href="https://www.kan.org.il/content/kan/podcasts/p-579653/191023/587974/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
@@ -4166,40 +4189,6 @@
                 </div>
                 <div class="card-text">
                     נחטף מהמסיבה ברעים
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="memorial-list-item">
-        <div class="card">
-            <div class="card-img">
-                <img src="https://cfcdn.kan.org.il/media/dihhcxth/טל-חיימי.jpg" class="img-fluid" alt="טל חיימי"/>
-            </div>
-            <div class="card-body">
-                <div class="card-title">
-                    <span class="text-xs"></span>
-                    טל חיימי
-                    <span class="text-sm">42, ניר יצחק</span>
-                </div>
-                <div class="card-text">
-                    נחטף מקיבוץ ניר יצחק
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="memorial-list-item">
-        <div class="card">
-            <div class="card-img">
-                <img src="https://cfcdn.kan.org.il/media/4sop24pr/יותם-חיים.jpg" class="img-fluid" alt="יותם חיים"/>
-            </div>
-            <div class="card-body">
-                <div class="card-title">
-                    <span class="text-xs"></span>
-                    יותם חיים
-                    <span class="text-sm">28, כפר עזה</span>
-                </div>
-                <div class="card-text">
-                    נחטף מקיבוץ כפר עזה
                 </div>
             </div>
         </div>
@@ -4292,17 +4281,109 @@
     <div class="memorial-list-item">
         <div class="card">
             <div class="card-img">
-                <img src="https://cfcdn.kan.org.il/media/wqybklzr/עדן-זכריה.jpg" class="img-fluid" alt="עדן זכריה"/>
+                <img src="https://cfcdn.kan.org.il/media/wxan0xqp/נועה-מרציאנו.jpg" class="img-fluid" alt="נועה מרציאנו"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs">רב"ט</span>
+                    נועה מרציאנו
+                    <span class="text-sm">19, מודיעין</span>
+                </div>
+                <div class="card-text">
+                    נחטפה מבסיס נחל עוז ונרצחה. כוחות צה"ל החזירו את גופתה
+                </div>
+                    <a href="/content/kan-news/defense/612219/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
+            </div>
+        </div>
+    </div>
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/ceggmn21/נורית-קופר.jpeg" class="img-fluid" alt="נורית קופר"/>
             </div>
             <div class="card-body">
                 <div class="card-title">
                     <span class="text-xs"></span>
-                    עדן זכריה
-                    <span class="text-sm">28, קרית שמונה</span>
+                    נורית קופר
+                    <span class="text-sm">80, ניר עוז</span>
                 </div>
                 <div class="card-text">
-                    נחטפה מהמסיבה ברעים
+                    שוחררה אחרי 17 ימים בשבי. נחטפה מקיבוץ ניר עוז
                 </div>
+                    <a href="/content/kan-news/defense/580200/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
+            </div>
+        </div>
+    </div>
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/m1xeolrd/הדר-גולדין.png" class="img-fluid" alt="הדר גולדין"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs">סגן</span>
+                    הדר גולדין
+                    <span class="text-sm">23, משגב</span>
+                </div>
+                <div class="card-text">
+                    נפל במבצע צוק איתן ב-1.8.2014. גופתו מוחזקת בעזה
+                </div>
+                    <a href="/content/kan-news/defense/566305/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
+            </div>
+        </div>
+    </div>
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/wckboiqt/הישאם.png" class="img-fluid" alt="הישאם א-סייד"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs"></span>
+                    הישאם א-סייד
+                    <span class="text-sm">35, חורה</span>
+                </div>
+                <div class="card-text">
+                    חצה את הגבול לרצועת עזה באפריל 2015 ונחטף
+                </div>
+                    <a href="/content/kan-news/local/582376/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/wckboiqt/הישאם.png" class="img-fluid" alt="הישאם א-סייד"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs"></span>
+                    הישאם א-סייד
+                    <span class="text-sm">35, חורה</span>
+                </div>
+                <div class="card-text">
+                    חצה את הגבול לרצועת עזה באפריל 2015 ונחטף
+                </div>
+                    <a href="/content/kan-news/local/582376/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
+            </div>
+        </div>
+    </div>
+    <div class="memorial-list-item">
+        <div class="card">
+            <div class="card-img">
+                <img src="https://cfcdn.kan.org.il/media/k5bgc0qh/אורון-שאול.png" class="img-fluid" alt="אורון שאול"/>
+            </div>
+            <div class="card-body">
+                <div class="card-title">
+                    <span class="text-xs">סמ"ר</span>
+                    אורון שאול
+                    <span class="text-sm">21, פוריה עילית</span>
+                </div>
+                <div class="card-text">
+                    נפל ב-20.7.2014 במבצע צוק איתן. גופתו מוחזקת בעזה
+                </div>
+                    <a href="/content/kan-news/defense/223556/" class="card-link" target="_blank" style="">לכתבה &gt;</a>
             </div>
         </div>
     </div>
